@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hc738a18dg2e84g450bg90a8gfadb588e482b" version="1">A battle-ready fighter with no equal in combat.</content> <!--public/classdescriptions.lsx-->
+	<content contentuid="h0686191dg886ag45e3g9477g9bc2512ae3c2" version="1">Soldier</content> <!--public/classdescriptions.lsx-->
+	<content contentuid="h33fbeef9ga8cbg4818g9755gf058693c8451" version="1">An explorer most at home on the fringes of the relm.</content> <!--public/classdescriptions.lsx-->
+	<content contentuid="hb19b0e44gc60fg45a1gb1a0g393327de36f2" version="1">Scout</content> <!--public/classdescriptions.lsx-->
+	<content contentuid="hd45b5005g8a61g4e72g8df3ga8d5938baf88" version="1">A skillful rogue that gets by on stealth and guile.</content> <!--public/classdescriptions.lsx-->
+	<content contentuid="h7ddf71d7g9113g43a4g8e49gfaec87bbda4c" version="1">Scoundrel</content> <!--public/classdescriptions.lsx-->
+	<content contentuid="h8decf3a9gea5bg4336g91bdg094f1922059e" version="1">Jedi</content> <!--public/classdescriptions.lsx-->
+	<content contentuid="hc0d2c9f7gb292g4d74gacf7g53a28d7f2c4d" version="1">Jedi</content> <!--public/classdescriptions.lsx-->
+	<content contentuid="h53175cc4g97bfg42f8g867dg2151920a89b4" version="1">Jedi Guardians battle against the forces of evil and the dark side. They focus on combat training and masterful use of the lightsaber. Jedi Guardians gain the Force Jump feat automatically. This feat allows them to instantly close the distance and attack an opponent within 10 metres.</content> <!--public/classdescriptions.lsx-->
+	<content contentuid="h3cafa7c0gdf29g446eg9dc7gd99aff73a67d" version="1">Jedi Guardian</content> <!--public/classdescriptions.lsx-->
+	<content contentuid="ha99b7ba0g6213g4be0gb2acg220a0cc0d76a" version="1">Jedi Sentinels ferret out deceit and injustice, bringing them to light. They strike a balance between the physical and mental disciplines of the Jedi Order. Jedi Sentinels gain the Jedi Immunity feat automatically. This makes them immune to fear.</content> <!--public/classdescriptions.lsx-->
+	<content contentuid="h782e3243g1ab2g497fg88a6g1060baedad70" version="1">Jedi Sentinel</content> <!--public/classdescriptions.lsx-->
+	<content contentuid="h0541c270g6eaeg4a50g9305g752d49aa583e" version="1">Jedi Consulars seek to bring balance to the universe. They focus less on physical combat and more on mental disciplines in order to augment their mastery of the Force. Jedi Consulars gain the Force Focus feat automatically. This feat makes it harder for opponents to resist their Force Powers.</content> <!--public/classdescriptions.lsx-->
+	<content contentuid="he86bf5a4g163fg4c5agbecagf950054d2f77" version="1">Jedi Consular</content> <!--public/classdescriptions.lsx-->
+
+	<content contentuid="h9493017bg08eeg44ecgb369g1ec42f93619e" version="1">increases the Critical Threat range of melee attacks.</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h671d030cg9f9fg47d9g87b2gad7d106ac9e2" version="1">Critical Strike</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h8dc4b7dbg82b8g41a7g92aag09e7d6949315" version="1">Critical Strike (Improved)</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="hf406b495g922cg4818g8132ge56495968326" version="1">Critical Strike (Master)</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h58082a91gcf8cg4e0dgb037g2d843524f747" version="1">Allows a character to make an extra melee attack during the round. This is made with the main hand when wielding a double-bladed weapon or two weapons. 
+
+Character suffers defense penalty while using this feat and for 3 seconds afterwards (i.e. an enemy's attack). 
+
+Attack penalty affects every attack in a combat round.</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h7be7590dg03dbg4294g8c36gf781ebca30cd" version="1">Flurry</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="haf27cd35g73c7g4047ga7a9gc48525ea103f" version="1">Flurry (Improved)</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h1fe7e45eg5905g410cg95fdge90e2b107007" version="1">Flurry (Master)</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h6573bbc9gaa5cg4567g9544g846098bd9bc8" version="1">Attack penalty and damage bonus affect every attack in a combat round. Critical hit doubles bonus damage.</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h41919b91gb14fg40c1gb72fg540ebf4dc82c" version="1">Power Attack</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h6457ccc3gf097g43a0g8293gf479526e54b0" version="1">Power Attack (Improved)</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="hbc8f585agbc21g4f80g82cfg3ad105eb1851" version="1">Power Attack (Master)</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="he62aa8cdg0b23g4b61gad09g6615aaed6094" version="1">increases the Critical Threat range of ranged attacks.</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="hd1bbfd9ag1007g4313gb0a9g9b7d7264ec71" version="1">Sniper Shot</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h25a6c77cg0005g4c7fg8747g4a8b472f8224" version="1">Sniper Shot (Improved)</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h1e838af7ga26ag40ccg9fe8gb89b54898972" version="1">Sniper Shot (Master)</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="hd47c1015g89bcg4295gb536g8dbf301d57da" version="1">Allows a character to make an extra ranged weapon attack during the round.
+
+Character suffers defense penalty while using this feat and for 3 seconds afterwards (i.e. an enemy's attack).
+
+Attack penalty affects every attack in a combat round.</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="hbc8cfd5eg36d6g4b73g8170g86f6494c16c0" version="1">Rapid Shot</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h4fbcb51fg82a2g4d0fgae19g761a20de57ce" version="1">Rapid Shot (Improved)</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h476f20ebgd548g4d8dg9a0bg980512656459" version="1">Rapid Shot (Master)</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="ha949d6aeg4bc0g49b9ga40fg1942e8a647b7" version="1">Attack penalty and damage bonus affect every attack in a combat round. Critical hit doubles bonus damage.</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="hb5699ab3gd939g458agacb9g5731875c7279" version="1">Power Blast</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h14dfaecfg1266g48b8ga0a8g9a16e32dd423" version="1">Power Blast (Improved)</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="hc95db76agc246g4ea9ga2c4gd9ba51031fda" version="1">Power Blast (Master)</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="hf2c3b776gafc6g4863gaaf1g5bdf2d60f543" version="1">Adds points of extra damage to attacks when the target can't respond to the attacker. The extra damage is applied to attacks made from behind the target, attacks against stunned or otherwise immobilized targets, and any attacks made while in Stealth Mode.
+
+Sneak Attack only works if the target is within 10 meters. The extra damage is not multiplied in the case of a critical hit.</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h75086e89g3e88g421cg913fgd275e4c07129" version="1">Sneak Attack I</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h048d5837g6141g4213gab55gf4d28f9277a0" version="1">Sneak Attack II</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h6ed52f16gc476g46c9g8590gd429b503a5b2" version="1">Sneak Attack III</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="hc7ffd3ccg60b7g4089ga21bg05d51e6c3628" version="1">Sneak Attack IV</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h893a5eafg0c89g454fga8eage4b754209bd5" version="1">Sneak Attack V</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="hff3bc68ag26c8g4ebdga1a7g8e70b0b98e92" version="1">Sneak Attack VI</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h7496e909g4b48g4180ga1efgc3420ff88d31" version="1">Sneak Attack VII</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h13663bc5g9cddg4f9bg99cdg97b495869bbe" version="1">Sneak Attack VIII</content> <!--Stats/KOTOR_Target.txt-->
+	<content contentuid="h0a523cd2gb03ag4938g946fg7c9ceea7876a" version="1">Sneak Attack IX</content> <!--Stats/KOTOR_Target.txt-->
+
+	<content contentuid="ha7fe063fgfb45g4c47gbf57g415c7f7755f0" version="1">Caution</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h3ccd303bgeec2g42f2ga765ga5a0b9840dda" version="1">Caution (Improved)</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="ha3d40500g7023g420dgbb09g3c40c5c1aa71" version="1">Caution (Master)</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h1227e0f4g2e0fg461fg8f6ag4de98a5140f3" version="1">Skill bonus to Investigation and Stealth.</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h2dff7e82g3aaag49fagbc76gb968290247a1" version="1">Conditioning</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h322c437eg4b76g482bgae02g16f9ab629437" version="1">Conditioning (Improved)</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="heeacb6c6g6e17g4c63ga73eg0a45a2477372" version="1">Conditioning (Master)</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="hcac39d9agbf11g4097gad9dg45d5e3eb0cfa" version="1">Bonus to all saving throws.</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="hc6bf5ed8g6f90g4c4eg83acga5a9641e3f25" version="1">Dueling</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h3b6fb03agf577g4b43ga3bbg25efa769b88f" version="1">Dueling (Improved)</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h2ec45882g1f84g4e3ag9fcbgceffbbfbddeb" version="1">Dueling (Master)</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="hccfaa095g3206g47edgbd49gae5317d152ec" version="1">Bonuses apply when characters focus on using single one-handed weapons in battle due to the efficiency of this form of combat. This applies to both ranged and melee weapons, but it does not apply when unarmed.</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h099dc689gbe7dg4467g8f32g23b11d37adf4" version="1">Empathy</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h122f61edg594dg45bcgb667g04595880605a" version="1">Empathy (Improved)</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h77aa61ecg2a29g4a28g8e69g01ba04a4d11a" version="1">Empathy (Master)</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="hd01e9ed1g3082g4683ga91fg8aaf1634ca61" version="1">Skill bonus to Persuasion, Perception, and Medicine.</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h41c93777g687eg4b56g9d73ge55b8bbe601a" version="1">Ingenuity</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="hd6675aeeg13eag4d2dga96egcfe6333b83df" version="1">Ingenuity (Improved)</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h6160e596g2467g42degb5a4gd7e4287ecc55" version="1">Ingenuity (Master)</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h27bbdf90g5d4ag40b0ga500g656a7bae4997" version="1">Skill bonus to Nature, Insight, and Arcana.</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="hac94a4a3g9fb3g49a2g8c9dg170b0ec41e87" version="1">Toughness</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="ha2cb633agd385g4811g8362g1307c0d73e07" version="1">Toughness (Improved)</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="hb382e0fcg1d32g43e9g8e24g59c8392674c1" version="1">Toughness (Master)</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h744138bdgaca5g4a39gb21fga163a921868e" version="1">Hit Point bonus is retroactive for levels previously gained.</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h3a70e9b8g54d7g4ae7gb4c6gb5bb9cba3556" version="1">Two-Weapon Fighting</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="hfcb1a4dbg0569g466fgadc0g7987949bb9a2" version="1">Two-Weapon Fighting (Improved)</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h3976532fg9c2cg4bbcg87b3gc2545a198a65" version="1">Two-Weapon Fighting (Master)</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h28d6f9bdgd6eag4e54g8dbbgcc0d77474bf2" version="1">Reduces the attack penalty of a character wielding two weapons (one in each hand).</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="he60ab082gd313g47f4g9010g8c59805a9e38" version="1">Scoundrel's Luck</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h5c94dcdbg8ed2g4b92g9f15g965e1bc1d878" version="1">Scoundrel's Luck (Improved)</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="hdab6324cgf277g4390gb2e0ge0b0078d62e5" version="1">Scoundrel's Luck (Master)</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h3aeb98d4g9885g4b43g96d2gc5d5ef8a7c7b" version="1">Scoundrels have a knack for getting in trouble, but to compensate, they also possess an incredible instinct for survival.</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h0454ff65g8284g4e01ga237g4a5c4144e7e2" version="1">Uncanny Dodge</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="had42090cgb79ag43d7ga87ag5e60992e3604" version="1">Uncanny Dodge 2</content> <!--Stats/KOTOR_Passive.txt-->
+	<content contentuid="h44a9c393g464ag472egb85fg01fd65029549" version="1">Reduces Difficulty Class of incoming attacks.</content> <!--Stats/KOTOR_Passive.txt-->
+
+	<content contentuid="h389561c9g5cccg4636gacffg6ceb454d5c51" version="1">Force Focus</content> <!--Stats/KOTOR_Jedi_Passive.txt-->
+	<content contentuid="hbec87499ge75cg4ab7g9080g55ce01e884cf" version="1">Force Focus (Improved)</content> <!--Stats/KOTOR_Jedi_Passive.txt-->
+	<content contentuid="h4132697ag9993g4b74g8994g98420f1f7848" version="1">Force Focus (Master)</content> <!--Stats/KOTOR_Jedi_Passive.txt-->
+	<content contentuid="h74bc6413ga94fg47c8g809bg758848aa2049" version="1">Adds to the Difficulty Class for all saving throws against the character's Force powers.</content> 
+	<content contentuid="hd8d05c91g2886g41e9ga312g5f9ce0293d02" version="1">Force Immunity (Fear)</content> <!--Stats/KOTOR_Jedi_Passive.txt-->
+	<content contentuid="hf49ab8edga81fg4f1cg8b4egcd0fcb870662" version="1">Force Immunity (Stun)</content> <!--Stats/KOTOR_Jedi_Passive.txt-->
+	<content contentuid="h7332d0ccg553ag4383ga943g33bb217ac96d" version="1">Force Immunity (Paralysis)</content> <!--Stats/KOTOR_Jedi_Passive.txt-->
+	<content contentuid="hf5baf921g1dd6g4005g8d44g1bfef450ee00" version="1">Immunity to Condition; Frightened.</content> <!--Stats/KOTOR_Jedi_Passive.txt-->
+	<content contentuid="h38f13448gd931g41f6ga6e3g0e15241528ff" version="1">Immunity to Condition; Stunned.</content> <!--Stats/KOTOR_Jedi_Passive.txt-->
+	<content contentuid="h3f93e8fegf030g438eg834bg5514d0fe4c13" version="1">Immunity to Condition; Paralyzed.</content> <!--Stats/KOTOR_Jedi_Passive.txt-->
+	<content contentuid="h5d131451gd0e7g4eb3g95edgea0426132e24" version="1">Jedi Defense</content> <!--Stats/KOTOR_Jedi_Passive.txt-->
+	<content contentuid="h0310e823ga24cg44edg94ceg8ac80bdc5f86" version="1">Jedi Defense (Improved)</content> <!--Stats/KOTOR_Jedi_Passive.txt-->
+	<content contentuid="h57d2cdc9g6817g41fcg8199g5d8ffa0fe515" version="1">Jedi Defense (Master)</content> <!--Stats/KOTOR_Jedi_Passive.txt-->
+	<content contentuid="hb9b2c06fg015ag49acgbbacg388882fd6570" version="1">Allows a character to deflect ranged attacks at any time.</content> <!--Stats/KOTOR_Jedi_Passive.txt-->
+	<content contentuid="hcecc1e6ag2f8bg48a9g837eg37aeb1a2c8f4" version="1">Jedi Sense</content> <!--Stats/KOTOR_Jedi_Passive.txt-->
+	<content contentuid="had1a34aeg6196g424bg9584gc76cc87e1b19" version="1">Jedi Sense (Improved)</content> <!--Stats/KOTOR_Jedi_Passive.txt-->
+	<content contentuid="hc8f2489cg973bg4550gb2f7g61c386c85e29" version="1">Jedi Sense (Master)</content> <!--Stats/KOTOR_Jedi_Passive.txt-->
+	<content contentuid="h290929a8gb6b2g4976gb04cg9bd3d6942f7c" version="1">The Jedi develops a connection to the Force that allows them to better sense incoming attacks.</content> <!--Stats/KOTOR_Jedi_Passive.txt-->
+
+	<content contentuid="hf865227fg13aag4188ga46egc362f88adb43" version="1">Force Jump</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h88dee9adgc5e1g43c8g8eabg31402cde5405" version="1">Force Jump (Improved)</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="ha9a948acg17ddg4480ga472gbffd066b3928" version="1">Force Jump (Master)</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h630dcdc4gc512g4813ga409g36e6fa4d6433" version="1">The Jedi knows that if diplomacy fails, combat must be swift and decisive. When an opponent at range is targeted with a standard lightsaber melee attack, this feat allows Guardians to make a quick series of jumps and rolls to close distance almost instantly. This feat is automatic when wielding a lightsaber and targeting opponents with a standard melee attack from more than 10 meters away. The Jedi must have a clear line of sight to the opponent.</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h542c963dg2801g43d6ga5bbg3c867d6d935b" version="1">Affect Mind</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h7f5118d2g4046g4e2ag9e50gbb883984aac8" version="1">Dominate Mind</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h11f0aa4agb9a2g416dgac6cg864e56988ed2" version="1">Affect and Dominate Mind enable persuasive use of the Force. Once a Jedi has this power, extra options will appear in conversations as appropriate. Success is not guaranteed for extreme commands or if the target is strong willed. Dominate Mind is more powerful than Affect Mind, and very few beings can resist its effects.</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h2790169fg61d8g445cga60cgd242a138e7d3" version="1">Burst of Speed</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h72e2d227g077cg4d89g98bfg7adbd86c9322" version="1">Knight Speed</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="hf427b597g995eg42a9gb95cgc49c3c25d7de" version="1">Master Speed</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="hbd3eee7cg6c11g42f7g96b0g07b949fbe24f" version="1">For the duration of the effect (6 turns), movement speed is doubled.</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h0ae76f48g15e7g41d2g9e9agc61d2146bcd3" version="1">Energy Resistance</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h685c5d8egda92g41aega8c0gd328fec6e996" version="1">Improved Energy Resistance</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="ha2534c0cg02aag400fga92bg6ddd61aaea5a" version="1">This power absorbs half the points of damage from thunder, fire, cold and lightning attacks. This effect lasts for 20 turns.</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h6281a7e7gbd06g4797g82c1g93f6fb1fd120" version="1">This power absorbs half the points of damage from thunder, fire, cold, lightning and force attacks along with granting immunity to poison. This effect lasts for 20 turns.</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h1649a12ag6af3g4e5agae9cgc41c3f3dc932" version="1">Force Push</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="hdad17a35g493cg43aega282gb0e427174575" version="1">Force Whirlwind</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h795c1244g2c9bg41ceg9fcdg0e3232fde634" version="1">Force Wave</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="hb8b4258dgdefdg423cg8400ge1ae6b283659" version="1">An opponent targeted by Force Push is pushed back 5 meters, thrown to the ground stunned, and suffers damage. A successful Dexterity save means the target is not stunned, but still suffers half damage and gets thrown.</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h3df14131g08a3g4ba8g8dc7gdf5b7fafe610" version="1">Force Whirlwind encircles the target victim in a small maelstrom of air and dust, inflicting damage and rendering them unable to take any action. A successful Dexterity save negates the damage and immobilizing effects altogether. Those adjacent to the target are pushed back 5 meters and thrown to the ground (but not stunned or damaged) unless a successful Dexterity save is made.</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h015609afgd1a3g4e49g87e6g84eb9cb90d68" version="1">Force Wave creates a telekinetic explosion around the Jedi. All enemies within 15 meters are thrown 5 meters, fall to the ground and are incapacitated, and take damage. A successful Dexterity save means an enemy is not stunned, but still suffers half damage (and is thrown 5 meters).</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="hbfd769a0g259cg410agaaf8gf3f5a2d20088" version="1">Force Resistance</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="hdb290c5eg9129g4387g91c3gda8b65777b9e" version="1">Force Immunity</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="hcc08509cg7617g4414g8647g319876a3dd6a" version="1">This power offers some protection from direct Force power attacks of Jedi opponents, possibly negating their effects. This effect lasts for 10 turns.</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="hcaa19f78ga837g440fga56ag4a7ed5e7b4cf" version="1">Force Suppression</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h6e283ab8g93c3g456eg9418gd46c8498b6a3" version="1">Force Breach</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h38007119gb79bg4bcfga0eeg2f00a5f025d2" version="1">This ability will cancel buffs up to spell level 2 active on the target. These buffs are instantly cancelled, but the target can reactivate them if capable.</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h14b7794dg21aag49afgaac3g4552ea168181" version="1">This ability will cancel all buffs active on the target. These buffs are instantly cancelled, but the target can reactivate them if capable.</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h8cc419ecga9f7g48f8gb4eag4be4633b5619" version="1">Force Throw</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="h6f3f517ag7ceeg4f4fgbc0agd09b4ffc64ac" version="1">Advanced Force Throw</content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="hddbdabf3gace8g4765gae8cg0f829639d34d" version="1">The target must be at least 5 meters away. This attack always hits. Once the weapon is thrown, it will automatically return to the Jedi's hand at the end of the round. </content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+	<content contentuid="he2acc864gba22g4426g9877g7d5603f33063" version="1">The target must be at least 5 meters away, and any additional targets must be within 5 meters of the previous. This attack always hits. Once the weapon is thrown, it will automatically return to the Jedi's hand at the end of the round. </content> <!--Stats/KOTOR_Jedi_Universal.txt-->
+
+	<content contentuid="h21833575g7825g4cb0gb780gc5ba37c6ccdb" version="1">Cure</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="hf03ebc2dg419ag4690g9828g638c70b92645" version="1">Heal</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="hf4da26bagf8a5g4d64gb18dg5d7ade20932f" version="1">This power heals all party members within a 15 meter radius.</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="h6455ebb4g6ccag47fagbbecg20397cfe3dd4" version="1">Force Aura</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="h392791d4g08bcg4789gb252ge8efb0feec34" version="1">Force Shield</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="h08602635gb8cag4b49gab8cg47bf3ee14cbc" version="1">Force Armor</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="h6e79dd24g86cdg46f6gbd13gc05cbaa9576b" version="1">When this power is activated, the Jedi is temporarily granted a bonus to AC and all saving throws. The effect lasts for 3 turns.</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="hc36c4449gc610g4fe2gaa83g8b76aee4c8b3" version="1">Force Valor</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="h21c45bb3g7426g4d94g978ag2fb0d2290fc5" version="1">Knight Valor</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="h89ce625aga6aag45b7gbff3g530294aa785a" version="1">Master Valor</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="h0648918egc76bg4803g9003ge47feb09bba4" version="1">This power increases the physical attributes and saving throws of the Jedi and all party members. The effect lasts for 3 turns.</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="hf4ef19b8g9a0dg4f5fg9e8bg201c5494477b" version="1">This power increases the physical attributes and saving throws of the Jedi and all party members along with granting immunity to poison. The effect lasts for 3 turns.</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="h3367309ag4ff3g45ecgba5fg6ba7217afe07" version="1">Stun</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="hb55616d2gc2b8g4390g9113g8391652b5176" version="1">Stasis</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="h144778f5ga62bg4058g8b93g0d98e4d24571" version="1">Stasis Field</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="h0f3d57b2g0084g4370g9bb4g174d533fafa7" version="1">A successful Constitution save means the target is slowed for the duration instead of stunned.
+
+When slowed, -4 Defense is inflicted as well as the movement speed penalty: both effects stack (although duration does not), which can even result in negative Defense for the target(s).</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="h63e57b44g1bd9g422dg8048gb06af896383f" version="1">Stun (saved)</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="hb9e1bfffg0799g4046g9e75gf9d53a0de136" version="1">Stun Construct</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="hfaab7ae5g67d2g4fd8ga440g62f7de1ef2d9" version="1">Disable Construct</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="h82015800g2e62g4ffdgbefegb0fe7e207312" version="1">Destroy Construct</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+	<content contentuid="hb018aa9fgbfe8g4cb2gb260gd3f6d2f5e88b" version="1">This power renders constructs immobile for 2 turnsx. The construct also takes damage. A successful save by the target negates the stun and reduces damage by half.</content> <!--Stats/KOTOR_Jedi_Light.txt-->
+
+	<content contentuid="h58092af0gbae9g4721gbab4g2721c561b338" version="1">Drain Life</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="h32a60e43gba09g4ae9g99e3ga9bc58716a40" version="1">Death Field</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="h8e10367cg1effg4229g8dc1g2144354adf05" version="1">This power allows the Jedi to drain the life of others to heal him or herself. A successful Constitution save reduces damage by half.</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="h154144fbga573g465cgbc51g423aef838702" version="1">Fear</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="hccef57dfga6bfg4545g9b41g22d9f2202303" version="1">Horror</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="h31e0ce31gd00eg49a3gac4agcc1c00e7bfd3" version="1">Insanity</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="hd7e003f1g6834g476ega083gde1d590e174c" version="1">This power causes enemies to cower in fear of the attacking Jedi unless they make a Wisdom save.</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="ha5853f38gee05g451dg9ed7gfad590c4d224" version="1">Shock</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="he9a09df2g1206g41efga898ge98575a5c68a" version="1">Force Lightning</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="h57ef5286g5b7cg45a8g9081g43d5ca86f4f9" version="1">Force Storm</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="hff5d6771gf3adg4d73gaefegebfe689cbc7d" version="1">This power unleashes an electrical attack. A successful Wisdom save by the target reduces damage by half.</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="hd7d313eag4dd4g43a4ga664g646df8dc67a4" version="1">Slow</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="hfcd5da53g27d1g4ce3g8d05g75e6994ff382" version="1">Affliction</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="h6d292d5fgd5b2g4501g9c3bg4183efaef03e" version="1">Plague</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="hde1766c0g5c55g4221gbde0g1353f1f7bcc6" version="1">Slow clouds the mind, making a target's actions unusually sluggish. A successful save negates these effects.</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="h51ddfd40ge6f1g4c03gbbeag0d6e2bc51442" version="1">Affliction causes a target to suffer as though poisoned. The target is also slowed for the duration. A successful save negates these effects.</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="h2a9605f7g38c0g4a87gb536gc55343b543b2" version="1">Plague causes a target to suffer as though deathly ill from poison. The target is also slowed for the duration. A successful save negates these effects.</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="h6b9b2849g8f6cg47afg9e7dg447593ba82de" version="1">Wound</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="h318ff796g82b7g46c0g83adg7c938acafb26" version="1">Choke</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="h98723234g22abg4d14g8a12g1afb0a71c77e" version="1">Kill</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="h6568fe26g4e49g4f73ga0d3g0d6847d05b07" version="1">Wound triggers spasms in the victim's lungs, causing great pain. A successful Constitution save results in no effect.</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="hbfc67670g45e6g457agb92eg1b611f6846b4" version="1">Choke constricts the throat of a target at range, stunning and also suffering a temporary (4 turn) -4 penalty to Constitution, Dexterity and Strength. A successful Constitution save results in no effect.</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+	<content contentuid="he2318b28gb615g4b2bg8c14gf2920a4edab5" version="1">Kill allows the Jedi to exterminate an enemy at range with a single thought, causing the target to choke for 6 seconds and inflicting damage equal to (close to) half the target's maximum Hit Points. If the target makes a Constitution save they are not choked, but instead suffer damage equal to attacker's Wisdom modifier.</content> <!--Stats/KOTOR_Jedi_Dark.txt-->
+</contentList>
+

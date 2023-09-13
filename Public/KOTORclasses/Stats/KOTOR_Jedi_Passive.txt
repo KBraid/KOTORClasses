@@ -1,0 +1,109 @@
+
+new entry "KOTOR_ForceFocus_1"
+type "PassiveData"
+data "DisplayName" "h389561c9g5cccg4636gacffg6ceb454d5c51;1" /Localization/KOTORClasses.xml
+data "Description" "h74bc6413ga94fg47c8g809bg758848aa2049;1" /Localization/KOTORClasses.xml
+data "Icon" "Skill_ForceFocus_1"
+data "Properties" "Highlighted"
+data "Boosts" "RollBonus(SourceSpellDC,1)"
+
+new entry "KOTOR_ForceFocus_2"
+type "PassiveData"
+data "DisplayName" "hbec87499ge75cg4ab7g9080g55ce01e884cf;1" /Localization/KOTORClasses.xml
+data "Description" "h74bc6413ga94fg47c8g809bg758848aa2049;1" /Localization/KOTORClasses.xml
+data "Icon" "Skill_ForceFocus_2"
+data "Properties" "Highlighted"
+using "KOTOR_ForceFocus_1"
+
+new entry "KOTOR_ForceFocus_3"
+type "PassiveData"
+data "DisplayName" "h4132697ag9993g4b74g8994g98420f1f7848;1" /Localization/KOTORClasses.xml
+data "Description" "h74bc6413ga94fg47c8g809bg758848aa2049;1" /Localization/KOTORClasses.xml
+data "Icon" "Skill_ForceFocus_3"
+data "Properties" "Highlighted"
+using "KOTOR_ForceFocus_1"
+
+new entry "KOTOR_ForceImmunity_1"
+type "PassiveData"
+data "DisplayName" "hd8d05c91g2886g41e9ga312g5f9ce0293d02;1" /Localization/KOTORClasses.xml
+data "Description" "hf5baf921g1dd6g4005g8d44g1bfef450ee00;1" /Localization/KOTORClasses.xml
+data "Icon" "Skill_ForceImmunity_1"
+data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(SG_Frightened)"
+
+new entry "KOTOR_ForceImmunity_2"
+type "PassiveData"
+data "DisplayName" "hf49ab8edga81fg4f1cg8b4egcd0fcb870662;1" /Localization/KOTORClasses.xml
+data "Description" "h38f13448gd931g41f6ga6e3g0e15241528ff;1" /Localization/KOTORClasses.xml
+data "Icon" "Skill_ForceImmunity_2"
+data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(SG_Stunned)"
+
+new entry "KOTOR_ForceImmunity_3"
+type "PassiveData"
+data "DisplayName" "h7332d0ccg553ag4383ga943g33bb217ac96d;1" /Localization/KOTORClasses.xml
+data "Description" "h3f93e8fegf030g438eg834bg5514d0fe4c13;1" /Localization/KOTORClasses.xml
+data "Icon" "Skill_ForceImmunity_3"
+data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(SG_Paralyzed)"
+
+new entry "KOTOR_JediDefense_1"
+type "PassiveData"
+data "DisplayName" "h5d131451gd0e7g4eb3g95edgea0426132e24;1" /Localization/KOTORClasses.xml
+data "Description" "hb9b2c06fg015ag49acgbbacg388882fd6570;1" /Localization/KOTORClasses.xml
+data "DescriptionParams" "DexterityModifier"
+data "Icon" "Skill_JediDefense_1"
+data "Properties" "Highlighted"
+data "StackId" "DEFLECT_MISSILES"
+data "Boosts" "IF(IsAttackType(AttackType.RangedWeaponAttack)):DamageReduction(All,Flat,1d10+DexterityModifier)"
+data "RemoveConditions" "(IsAttackType(AttackType.RangedWeaponAttack) or (SpellTypeIs(SpellType.Throw) and HasWeaponProperty(WeaponProperties.Thrown,context.HitDescription.ThrownObject))) and (HasDamageEffectFlag(DamageFlags.Hit) or HasDamageEffectFlag(DamageFlags.Critical)) and not (IsCriticalMiss() or IsMiss())"
+data "RemoveEvents" "OnAttacked"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog"
+data "OnRemoveFunctors" "IF(RemoveCause(StatusRemoveCause.Condition)):UseActionResource(ReactionActionPoint,1) "
+data "StatusGroups" "SG_RemoveOnRespec"
+
+new entry "KOTOR_JediDefense_2"
+type "PassiveData"
+data "DisplayName" "h0310e823ga24cg44edg94ceg8ac80bdc5f86;1" /Localization/KOTORClasses.xml
+data "Description" "hb9b2c06fg015ag49acgbbacg388882fd6570;1" /Localization/KOTORClasses.xml
+data "DescriptionParams" "3+DexterityModifier"
+data "Icon" "Skill_JediDefense_2"
+data "Properties" "Highlighted"
+using "KOTOR_JediDefense_1"
+data "StackId" "DEFLECT_MISSILES"
+data "Boosts" "IF(IsAttackType(AttackType.RangedWeaponAttack)):DamageReduction(All,Flat,1d10+DexterityModifier+3)"
+
+new entry "KOTOR_JediDefense_3"
+type "PassiveData"
+data "DisplayName" "h57d2cdc9g6817g41fcg8199g5d8ffa0fe515;1" /Localization/KOTORClasses.xml
+data "Description" "hb9b2c06fg015ag49acgbbacg388882fd6570;1" /Localization/KOTORClasses.xml
+data "DescriptionParams" "6+DexterityModifier"
+data "Icon" "Skill_JediDefense_3"
+data "Properties" "Highlighted"
+using "KOTOR_JediDefense_1"
+data "StackId" "DEFLECT_MISSILES"
+data "Boosts" "IF(IsAttackType(AttackType.RangedWeaponAttack)):DamageReduction(All,Flat,1d10+DexterityModifier+6)"
+
+new entry "KOTOR_JediSense_1"
+type "PassiveData"
+data "DisplayName" "hcecc1e6ag2f8bg48a9g837eg37aeb1a2c8f4;1" /Localization/KOTORClasses.xml
+data "Description" "h290929a8gb6b2g4976gb04cg9bd3d6942f7c;1" /Localization/KOTORClasses.xml
+data "Icon" "Skill_JediSense_1"
+data "Properties" "Highlighted"
+data "Boosts" "AC(+2)"
+
+new entry "KOTOR_JediSense_2"
+type "PassiveData"
+data "DisplayName" "had1a34aeg6196g424bg9584gc76cc87e1b19;1" /Localization/KOTORClasses.xml
+data "Description" "h290929a8gb6b2g4976gb04cg9bd3d6942f7c;1" /Localization/KOTORClasses.xml
+data "Icon" "Skill_JediSense_2"
+data "Properties" "Highlighted"
+using "KOTOR_JediSense_1"
+
+new entry "KOTOR_JediSense_3"
+type "PassiveData"
+data "DisplayName" "hc8f2489cg973bg4550gb2f7g61c386c85e29;1" /Localization/KOTORClasses.xml
+data "Description" "h290929a8gb6b2g4976gb04cg9bd3d6942f7c;1" /Localization/KOTORClasses.xml
+data "Icon" "Skill_JediSense_3"
+data "Properties" "Highlighted"
+using "KOTOR_JediSense_1"
