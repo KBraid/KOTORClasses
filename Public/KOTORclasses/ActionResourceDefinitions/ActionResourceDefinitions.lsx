@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="48"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" value="Used for casting Light and Universal Force Powers" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" value="Light Force Point" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="LightForcePoint"/>
+                    <attribute id="ReplenishType" type="FixedString" value="ShortRest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="c4b8c9dc-72e3-46b7-95b6-a981f5b64a32"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" value="Used for casting Dark and Universal Force Powers" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" value="Dark Force Point" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="DarkForcePoint"/>
+                    <attribute id="ReplenishType" type="FixedString" value="ShortRest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="21d5fd4f-0273-4bc8-a2de-1c661e2993c6"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
