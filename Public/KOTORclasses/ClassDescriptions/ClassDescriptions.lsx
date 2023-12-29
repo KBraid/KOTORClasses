@@ -13,18 +13,17 @@
                     <attribute id="Description" type="TranslatedString" handle="hc738a18dg2e84g450bg90a8gfadb588e482b" version="1"/> <!--localization/kotorclasses.xml-->
                     <attribute id="DisplayName" type="TranslatedString" handle="h0686191dg886ag45e3g9477g9bc2512ae3c2" version="1"/> <!--localization/kotorclasses.xml-->
                     <attribute id="HpPerLevel" type="int32" value="10"/>
-                    <attribute id="ItemsHotbarColumns" type="int32" value="2"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/> 
                     <attribute id="Name" type="FixedString" value="Soldier"/>
                     <attribute id="PrimaryAbility" type="uint8" value="1"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="REPLACEME"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/>
                     <attribute id="SoundClassType" type="FixedString" value="Fighter"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="0"/>
-                    <attribute id="SpellList" type="guid" value="REPLACEME"/>
                     <attribute id="UUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/>
                     <children>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="REPLACEME"/>
+                            <attribute id="Object" type="guid" value="4a1133c6-62e1-4e72-b4e1-f1ee564caf5f"/>
                         </node>
                     </children>
                 </node>
