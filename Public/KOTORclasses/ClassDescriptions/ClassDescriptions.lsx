@@ -20,6 +20,11 @@
                     <attribute id="SoundClassType" type="FixedString" value="Fighter"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="0"/>
                     <attribute id="UUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9af"/> <!--soldierdescUUID-->
+					<children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c1318a00-ed5c-4b88-bdf9-62a513b8b951"/> <!--Tag-->
+                        </node>
+                    </children>
                 </node>
             </children>
         </node>
