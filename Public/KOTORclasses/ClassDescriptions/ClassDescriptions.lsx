@@ -1,166 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="0" revision="9" build="314"/>
+    <version major="4" minor="0" revision="10" build="100"/>
     <region id="ClassDescriptions">
         <node id="root">
             <children>
                 <node id="ClassDescription"> <!--Soldier-->
                     <attribute id="BaseHp" type="int32" value="10"/>
+                    <attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Solder"/>
-                    <attribute id="ClassHotbarColumns" type="int32" value="5"/>
-                    <attribute id="CommonHotbarColumns" type="int32" value="9"/>
-                    <attribute id="Description" type="TranslatedString" handle="hc738a18dg2e84g450bg90a8gfadb588e482b" version="1"/> <!--localization/kotorclasses.xml-->
-                    <attribute id="DisplayName" type="TranslatedString" handle="h0686191dg886ag45e3g9477g9bc2512ae3c2" version="1"/> <!--localization/kotorclasses.xml-->
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Soldier"/>
+                    <attribute id="Description" type="TranslatedString" handle="KOTORClassSoldierName0000000000000000" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="KOTORClassSoldierDescription000000000" version="1"/>
                     <attribute id="HpPerLevel" type="int32" value="10"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="false"/> 
                     <attribute id="Name" type="FixedString" value="Soldier"/>
                     <attribute id="PrimaryAbility" type="uint8" value="1"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
                     <attribute id="SoundClassType" type="FixedString" value="Fighter"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="0"/>
-                    <attribute id="UUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="4a1133c6-62e1-4e72-b4e1-f1ee564caf5f"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="ClassDescription"> <!--Scout-->
-                    <attribute id="BaseHp" type="int32" value="8"/>
-                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Scout"/>
-                    <attribute id="ClassHotbarColumns" type="int32" value="5"/>
-                    <attribute id="CommonHotbarColumns" type="int32" value="9"/>
-                    <attribute id="Description" type="TranslatedString" handle="h33fbeef9ga8cbg4818g9755gf058693c8451" version="1"/> <!--localization/kotorclasses.xml-->
-                    <attribute id="DisplayName" type="TranslatedString" handle="hb19b0e44gc60fg45a1gb1a0g393327de36f2" version="1"/> <!--localization/kotorclasses.xml-->
-                    <attribute id="HpPerLevel" type="int32" value="8"/>
-                    <attribute id="ItemsHotbarColumns" type="int32" value="2"/>
-                    <attribute id="LearningStrategy" type="uint8" value="1"/>
-                    <attribute id="MulticlassSpellcasterModifier" type="double" value="0.5"/>
-                    <attribute id="Name" type="FixedString" value="Scout"/>
-                    <attribute id="PrimaryAbility" type="uint8" value="2"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="REPLACEME"/>
-                    <attribute id="SoundClassType" type="FixedString" value="Ranger"/>
-                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
-                    <attribute id="SpellList" type="guid" value="REPLACEME"/>
-                    <attribute id="UUID" type="guid" value="3e4d0fe5-a30e-4ac0-95d5-4f2141a2e2c3"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="REPLACEME"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="ClassDescription"> <!--Scoundrel-->
-                    <attribute id="BaseHp" type="int32" value="6"/>
-                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Scoundrel"/>
-                    <attribute id="ClassHotbarColumns" type="int32" value="5"/>
-                    <attribute id="CommonHotbarColumns" type="int32" value="9"/>
-                    <attribute id="Description" type="TranslatedString" handle="hd45b5005g8a61g4e72g8df3ga8d5938baf88" version="1"/> <!--localization/kotorclasses.xml-->
-                    <attribute id="DisplayName" type="TranslatedString" handle="h7ddf71d7g9113g43a4g8e49gfaec87bbda4c" version="1"/> <!--localization/kotorclasses.xml-->
-                    <attribute id="HpPerLevel" type="int32" value="6"/>
-                    <attribute id="ItemsHotbarColumns" type="int32" value="2"/>
-                    <attribute id="LearningStrategy" type="uint8" value="1"/>
-                    <attribute id="Name" type="FixedString" value="Scoundrel"/>
-                    <attribute id="PrimaryAbility" type="uint8" value="2"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="REPLACEME"/>
-                    <attribute id="SoundClassType" type="FixedString" value="Rogue"/>
-                    <attribute id="SpellCastingAbility" type="uint8" value="0"/>
-                    <attribute id="SpellList" type="guid" value="REPLACEME"/>
-                    <attribute id="UUID" type="guid" value="13d6bede-1b18-4404-8787-65c18d461a2d"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="REPLACEME"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="ClassDescription"> <!--Jedi-->
-                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Jedi"/>
-                    <attribute id="Description" type="TranslatedString" handle="h8decf3a9gea5bg4336g91bdg094f1922059e" version="1"/> <!--localization/kotorclasses.xml-->
-                    <attribute id="DisplayName" type="TranslatedString" handle="hc0d2c9f7gb292g4d74gacf7g53a28d7f2c4d" version="1"/> <!--localization/kotorclasses.xml-->
-                    <attribute id="LearningStrategy" type="uint8" value="1"/>
-                    <attribute id="MulticlassSpellcasterModifier" type="double" value="1"/>
-                    <attribute id="Name" type="FixedString" value="Jedi"/>
-                    <attribute id="PrimaryAbility" type="uint8" value="5"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="REPLACEME"/>
-                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
-                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
-                    <attribute id="SpellList" type="guid" value="REPLACEME"/>
-                    <attribute id="UUID" type="guid" value="95868744-921d-42d1-9584-2b0c87210b01"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="REPLACEME"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="ClassDescription"> <!--JediGuardian-->
-                    <attribute id="BaseHp" type="int32" value="10"/>
-                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Jedi_Guardian"/>
-                    <attribute id="Description" type="TranslatedString" handle="h53175cc4g97bfg42f8g867dg2151920a89b4" version="1"/> <!--localization/kotorclasses.xml-->
-                    <attribute id="DisplayName" type="TranslatedString" handle="h3cafa7c0gdf29g446eg9dc7gd99aff73a67d" version="1"/> <!--localization/kotorclasses.xml-->
-                    <attribute id="HpPerLevel" type="int32" value="10"/>
-                    <attribute id="LearningStrategy" type="uint8" value="1"/>
-                    <attribute id="Name" type="FixedString" value="JediGuardian"/>
-                    <attribute id="ParentGuid" type="guid" value="REPLACEME"/>
-                    <attribute id="PrimaryAbility" type="uint8" value="1"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="REPLACEME"/>
-                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
-                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
-                    <attribute id="SpellList" type="guid" value="REPLACEME"/>
-                    <attribute id="UUID" type="guid" value="f9f69249-fdb0-4371-85ce-d99848719bf8"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="REPLACEME"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="ClassDescription"> <!--JediSentinel-->
-                    <attribute id="BaseHp" type="int32" value="8"/>
-                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Jedi_Sentinel"/>
-                    <attribute id="Description" type="TranslatedString" handle="ha99b7ba0g6213g4be0gb2acg220a0cc0d76a" version="1"/> <!--localization/kotorclasses.xml-->
-                    <attribute id="DisplayName" type="TranslatedString" handle="h782e3243g1ab2g497fg88a6g1060baedad70" version="1"/> <!--localization/kotorclasses.xml-->
-                    <attribute id="HpPerLevel" type="int32" value="8"/>
-                    <attribute id="LearningStrategy" type="uint8" value="1"/>
-                    <attribute id="Name" type="FixedString" value="JediSentinel"/>
-                    <attribute id="ParentGuid" type="guid" value="REPLACEME"/>
-                    <attribute id="PrimaryAbility" type="uint8" value="5"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="REPLACEME"/>
-                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
-                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
-                    <attribute id="SpellList" type="guid" value="REPLACEME"/>
-                    <attribute id="UUID" type="guid" value="aefe8b84-10de-4336-ad32-fb1e0a6f6311"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="REPLACEME"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="ClassDescription"> <!--JediConsular-->
-                    <attribute id="BaseHp" type="int32" value="6"/>
-                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Jedi_Consular"/>
-                    <attribute id="Description" type="TranslatedString" handle="h0541c270g6eaeg4a50g9305g752d49aa583e" version="1"/> <!--localization/kotorclasses.xml-->
-                    <attribute id="DisplayName" type="TranslatedString" handle="he86bf5a4g163fg4c5agbecagf950054d2f77" version="1"/> <!--localization/kotorclasses.xml-->
-                    <attribute id="HpPerLevel" type="int32" value="6"/>
-                    <attribute id="LearningStrategy" type="uint8" value="1"/>
-                    <attribute id="Name" type="FixedString" value="JediConsular"/>
-                    <attribute id="ParentGuid" type="guid" value="REPLACEME"/>
-                    <attribute id="PrimaryAbility" type="uint8" value="5"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="REPLACEME"/>
-                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
-                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
-                    <attribute id="SpellList" type="guid" value="REPLACEME"/>
-                    <attribute id="UUID" type="guid" value="9f8f8433-f6f1-4692-bc1e-129d2cc4b6a5"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="REPLACEME"/>
-                        </node>
-                    </children>
+                    <attribute id="UUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9af"/> <!--soldierdescUUID-->
                 </node>
             </children>
         </node>

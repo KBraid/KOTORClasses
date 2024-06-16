@@ -1,29 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-  <version major="4" minor="0" revision="9" build="330"/>
+    <version major="4" minor="0" revision="10" build="100"/>
     <region id="Progressions">
         <node id="root">
-          <children>
-            <node id="Progression"> <!--soldier-->
-              <attribute id="AllowImprovement" type="bool" value="false"/> 
-              <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Constitution);Proficiency(Greatswords);Proficiency(HeavyArmor);Proficiency(MediumArmor);Proficiency(LightArmor);Proficiency(MartialWeapons);Proficiency(SimpleWeapons)"/> 
-              <attribute id="Level" type="uint8" value="1"/> 
-              <attribute id="Name" type="LSString" value="Soldier"/>
-              <attribute id="ProgressionType" type="uint8" value="0"/>
-              <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> 
-              <attribute id="UUID" type="guid" value="a68fdb77-9f63-49c9-9d15-146e396518fe"/> 
-            </node>
-      <node id="Progression"> <!--soldier-->
-              <attribute id="AllowImprovement" type="bool" value="false"/> 
-              <attribute id="IsMulticlass" type="bool" value="true"/>
-              <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Constitution);Proficiency(Greatswords);Proficiency(HeavyArmor);Proficiency(MediumArmor);Proficiency(LightArmor);Proficiency(MartialWeapons);Proficiency(SimpleWeapons)"/> 
-              <attribute id="Level" type="uint8" value="1"/> 
-              <attribute id="Name" type="LSString" value="Soldier"/>
-              <attribute id="ProgressionType" type="uint8" value="0"/>
-              <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> 
-              <attribute id="UUID" type="guid" value="570ad6d1-d01a-42c1-abc8-1f15bac19086"/> 
-            </node>
-          </children>
+            <children>
+                <node id="Progression"> <!--soldier-->
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Constitution);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(HeavyArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(MartialWeapons)"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="a68fdb77-9f63-49c9-9d15-146e396518fe"/> <!--soldierlevel1UUID-->
+                </node>
+			    <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="1"/> 
+                    <attribute id="IsMulticlass" type="bool" value="true"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="570ad6d1-d01a-42c1-abc8-1f15bac19086"/> <!--soldiermulticlassUUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="ca640ed9-87cd-4976-bc71-e60c4f2f81e1"/> <!--soldierlevel2UUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="c77ab14b-8e43-4f23-84b8-2b0cced439b7"/> <!--soldierlevel3UUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="85082a9d-8ab7-4c12-aa42-ae7a1906f029"/> <!--soldierlevel4UUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="904ae60b-2e4a-405b-b016-35106ff258ac"/> <!--soldierlevel5UUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="2fd9aa4b-af6e-4cb9-ac7b-aceecef0a6e7"/> <!--soldierlevel6UUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="264a423c-1e2e-441d-9bb3-7aeeafec74a6"/> <!--soldierlevel7UUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="8556588f-17ec-4cd1-88b1-acc0f3b03356"/> <!--soldierlevel8UUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="37910cc2-bb2f-4627-ba65-bdad169ef161"/> <!--soldierlevel9UUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="c5520a07-148d-48fd-aa47-e6a72378f142"/> <!--soldierlevel10UUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="f313ac92-ad00-425e-b91f-a756bad86636"/> <!--soldierlevel11UUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="4771d445-f4af-4795-bd86-3d59673a5656"/> <!--soldierlevel12UUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="4dbb49d6-5982-4536-bc86-c52afbf0b076"/> <!--soldierlevel13UUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="14"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="b1e5f56d-d98c-4668-934e-81bbb00c28e9"/> <!--soldierlevel14UUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="40f71fbb-1d5a-4719-84c0-5118713a0b30"/> <!--soldierlevel15UUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="16"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="9bb3512b-4d1c-4cec-aa59-a260f1fb7675"/> <!--soldierlevel16UUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="30869346-7f4a-439a-a00c-bbd0ef01ea43"/> <!--soldierlevel17UUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="18"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="666f33ca-a4a4-44fa-86d7-ad9862c7d03e"/> <!--soldierlevel18UUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="19"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="93226257-0769-4303-b092-e13291100af5"/> <!--soldierlevel19UUID-->
+                </node>
+                <node id="Progression">
+                    <attribute id="Name" type="LSString" value="Soldier"/>
+                    <attribute id="Level" type="uint8" value="20"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="UUID" type="guid" value="20b8ced9-3596-441b-bdc0-8243c01097dc"/> <!--soldierlevel20UUID-->
+                </node>
+            </children>
         </node>
     </region>
 </save>

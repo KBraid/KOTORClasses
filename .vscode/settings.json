@@ -1,0 +1,9 @@
+{
+    "bg3ModHelper.rootModPath": "d:\\users\\Braiden-PC\\Documents\\GitHub\\KOTORClasses",
+    "bg3ModHelper.excludedFiles": [
+        "d:\\users\\Braiden-PC\\Documents\\GitHub\\KOTORClasses\\.git",
+        "d:\\users\\Braiden-PC\\Documents\\GitHub\\KOTORClasses\\.vscode",
+        "d:\\users\\Braiden-PC\\Documents\\GitHub\\KOTORClasses\\backup",
+        "d:\\users\\Braiden-PC\\Documents\\GitHub\\KOTORClasses\\.gitattributes"
+    ]
+}
