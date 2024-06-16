@@ -4,7 +4,7 @@
     <region id="ClassDescriptions">
         <node id="root">
             <children>
-                <node id="ClassDescription"> Soldier
+                <node id="ClassDescription"> <!--Soldier-->
                     <attribute id="BaseHp" type="int32" value="10"/>
                     <attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
@@ -16,10 +16,10 @@
                     <attribute id="MustPrepareSpells" type="bool" value="false"/> 
                     <attribute id="Name" type="FixedString" value="Soldier"/>
                     <attribute id="PrimaryAbility" type="uint8" value="1"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> soldierclassUUID
+                    <attribute id="ProgressionTableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
                     <attribute id="SoundClassType" type="FixedString" value="Fighter"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="0"/>
-                    <attribute id="UUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9af"/> soldierdescUUID
+                    <attribute id="UUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9af"/> <!--soldierdescUUID-->
                 </node>
             </children>
         </node>
