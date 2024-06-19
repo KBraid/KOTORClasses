@@ -3,11 +3,9 @@
 	<content contentuid="KOTORClassSoldierName0000000000000000" version="1">Soldier</content>
 	<content contentuid="KOTORClassSoldierDescription000000000" version="1">A battle-ready fighter with no equal in combat.</content>
 	<content contentuid="KOTORClassScoutName000000000000000000" version="1">Scout</content>
-	<content contentuid="KOTORClassScoutDescription00000000000" version="1">An explorer most at home on the fringes of the relm.</content>
+	<content contentuid="KOTORClassScoutDescription00000000000" version="1">An explorer most at home on the fringes of the realm.</content>
 	<content contentuid="KOTORClassScoundrelName00000000000000" version="1">Scoundrel</content>
 	<content contentuid="KOTORClassScoundrelDescription0000000" version="1">A skillful rogue that gets by on stealth and guile.</content>
-	<content contentuid="KOTORClassJediName0000000000000000000" version="1">Jedi</content>
-	<content contentuid="KOTORClassJediDescription000000000000" version="1">Jedi</content>
 	<content contentuid="KOTORClassJediGuardianName00000000000" version="1">Jedi Guardian</content>
 	<content contentuid="KOTORClassJediGuardianDescription0000" version="1">Jedi Guardians battle against the forces of evil and the dark side. They focus on combat training and masterful use of the lightsaber. Jedi Guardians gain the Force Jump feat automatically. This feat allows them to instantly close the distance and attack an opponent within 10 metres.</content>
 	<content contentuid="KOTORClassJediSentinelName00000000000" version="1">Jedi Sentinel</content>
@@ -227,83 +225,82 @@ This Feature again reduces the attack penalty of a character wielding two weapon
 	<content contentuid="KOTORJediSense20000000000000000000000" version="1">Jedi Sense (Improved)</content>
 	<content contentuid="KOTORJediSense30000000000000000000000" version="1">Jedi Sense (Master)</content>
 	<content contentuid="KOTORJediSense1Description00000000000" version="1">The Jedi develops a connection to the Force that allows them to better sense incoming attacks.</content>
-	<content contentuid="hf865227fg13aag4188ga46egc362f88adb43" version="1">Force Jump</content>
-	<content contentuid="h88dee9adgc5e1g43c8g8eabg31402cde5405" version="1">Force Jump (Improved)</content>
-	<content contentuid="ha9a948acg17ddg4480ga472gbffd066b3928" version="1">Force Jump (Master)</content>
-	<content contentuid="h630dcdc4gc512g4813ga409g36e6fa4d6433" version="1">The Jedi knows that if diplomacy fails, combat must be swift and decisive. When an opponent at range is targeted with a standard lightsaber melee attack, this feat allows Guardians to make a quick series of jumps and rolls to close distance almost instantly. This feat is automatic when wielding a lightsaber and targeting opponents with a standard melee attack from more than 10 meters away. The Jedi must have a clear line of sight to the opponent.</content>
-	<content contentuid="h542c963dg2801g43d6ga5bbg3c867d6d935b" version="1">Affect Mind</content>
-	<content contentuid="h7f5118d2g4046g4e2ag9e50gbb883984aac8" version="1">Dominate Mind</content>
-	<content contentuid="h11f0aa4agb9a2g416dgac6cg864e56988ed2" version="1">Affect and Dominate Mind enable persuasive use of the Force. Once a Jedi has this power, extra options will appear in conversations as appropriate. Success is not guaranteed for extreme commands or if the target is strong willed. Dominate Mind is more powerful than Affect Mind, and very few beings can resist its effects.</content>
-	<content contentuid="h2790169fg61d8g445cga60cgd242a138e7d3" version="1">Burst of Speed</content>
-	<content contentuid="h72e2d227g077cg4d89g98bfg7adbd86c9322" version="1">Knight Speed</content>
-	<content contentuid="hf427b597g995eg42a9gb95cgc49c3c25d7de" version="1">Master Speed</content>
-	<content contentuid="hbd3eee7cg6c11g42f7g96b0g07b949fbe24f" version="1">For the duration of the effect (6 turns), movement speed is doubled.</content>
-	<content contentuid="h0ae76f48g15e7g41d2g9e9agc61d2146bcd3" version="1">Energy Resistance</content>
-	<content contentuid="h685c5d8egda92g41aega8c0gd328fec6e996" version="1">Improved Energy Resistance</content>
-	<content contentuid="ha2534c0cg02aag400fga92bg6ddd61aaea5a" version="1">This power absorbs half the points of damage from thunder, fire, cold and lightning attacks. This effect lasts for 20 turns.</content>
-	<content contentuid="h6281a7e7gbd06g4797g82c1g93f6fb1fd120" version="1">This power absorbs half the points of damage from thunder, fire, cold, lightning and force attacks along with granting immunity to poison. This effect lasts for 20 turns.</content>
-	<content contentuid="h1649a12ag6af3g4e5agae9cgc41c3f3dc932" version="1">Force Push</content>
-	<content contentuid="hdad17a35g493cg43aega282gb0e427174575" version="1">Force Whirlwind</content>
-	<content contentuid="h795c1244g2c9bg41ceg9fcdg0e3232fde634" version="1">Force Wave</content>
-	<content contentuid="hb8b4258dgdefdg423cg8400ge1ae6b283659" version="1">An opponent targeted by Force Push is pushed back 5 meters, thrown to the ground stunned, and suffers damage. A successful Dexterity save means the target is not stunned, but still suffers half damage and gets thrown.</content>
-	<content contentuid="h3df14131g08a3g4ba8g8dc7gdf5b7fafe610" version="1">Force Whirlwind encircles the target victim in a small maelstrom of air and dust, inflicting damage and rendering them unable to take any action. A successful Dexterity save negates the damage and immobilizing effects altogether. Those adjacent to the target are pushed back 5 meters and thrown to the ground (but not stunned or damaged) unless a successful Dexterity save is made.</content>
-	<content contentuid="h015609afgd1a3g4e49g87e6g84eb9cb90d68" version="1">Force Wave creates a telekinetic explosion around the Jedi. All enemies within 15 meters are thrown 5 meters, fall to the ground and are incapacitated, and take damage. A successful Dexterity save means an enemy is not stunned, but still suffers half damage (and is thrown 5 meters).</content>
-	<content contentuid="hbfd769a0g259cg410agaaf8gf3f5a2d20088" version="1">Force Resistance</content>
-	<content contentuid="hdb290c5eg9129g4387g91c3gda8b65777b9e" version="1">Force Immunity</content>
-	<content contentuid="hcc08509cg7617g4414g8647g319876a3dd6a" version="1">This power offers some protection from direct Force power attacks of Jedi opponents, possibly negating their effects. This effect lasts for 10 turns.</content>
-	<content contentuid="hcaa19f78ga837g440fga56ag4a7ed5e7b4cf" version="1">Force Suppression</content>
-	<content contentuid="h6e283ab8g93c3g456eg9418gd46c8498b6a3" version="1">Force Breach</content>
-	<content contentuid="h38007119gb79bg4bcfga0eeg2f00a5f025d2" version="1">This ability will cancel buffs up to spell level 2 active on the target. These buffs are instantly cancelled, but the target can reactivate them if capable.</content>
-	<content contentuid="h14b7794dg21aag49afgaac3g4552ea168181" version="1">This ability will cancel all buffs active on the target. These buffs are instantly cancelled, but the target can reactivate them if capable.</content>
-	<content contentuid="h8cc419ecga9f7g48f8gb4eag4be4633b5619" version="1">Force Throw</content>
-	<content contentuid="h6f3f517ag7ceeg4f4fgbc0agd09b4ffc64ac" version="1">Advanced Force Throw</content>
-	<content contentuid="hddbdabf3gace8g4765gae8cg0f829639d34d" version="1">The target must be at least 5 meters away. This attack always hits. Once the weapon is thrown, it will automatically return to the Jedi's hand at the end of the round. </content>
-	<content contentuid="he2acc864gba22g4426g9877g7d5603f33063" version="1">The target must be at least 5 meters away, and any additional targets must be within 5 meters of the previous. This attack always hits. Once the weapon is thrown, it will automatically return to the Jedi's hand at the end of the round. </content>
-	<content contentuid="h21833575g7825g4cb0gb780gc5ba37c6ccdb" version="1">Cure</content>
-	<content contentuid="hf03ebc2dg419ag4690g9828g638c70b92645" version="1">Heal</content>
-	<content contentuid="hf4da26bagf8a5g4d64gb18dg5d7ade20932f" version="1">This power heals all party members within a 15 meter radius.</content>
-	<content contentuid="h6455ebb4g6ccag47fagbbecg20397cfe3dd4" version="1">Force Aura</content>
-	<content contentuid="h392791d4g08bcg4789gb252ge8efb0feec34" version="1">Force Shield</content>
-	<content contentuid="h08602635gb8cag4b49gab8cg47bf3ee14cbc" version="1">Force Armor</content>
-	<content contentuid="h6e79dd24g86cdg46f6gbd13gc05cbaa9576b" version="1">When this power is activated, the Jedi is temporarily granted a bonus to AC and all saving throws. The effect lasts for 3 turns.</content>
-	<content contentuid="hc36c4449gc610g4fe2gaa83g8b76aee4c8b3" version="1">Force Valor</content>
-	<content contentuid="h21c45bb3g7426g4d94g978ag2fb0d2290fc5" version="1">Knight Valor</content>
-	<content contentuid="h89ce625aga6aag45b7gbff3g530294aa785a" version="1">Master Valor</content>
-	<content contentuid="h0648918egc76bg4803g9003ge47feb09bba4" version="1">This power increases the physical attributes and saving throws of the Jedi and all party members. The effect lasts for 3 turns.</content>
-	<content contentuid="hf4ef19b8g9a0dg4f5fg9e8bg201c5494477b" version="1">This power increases the physical attributes and saving throws of the Jedi and all party members along with granting immunity to poison. The effect lasts for 3 turns.</content>
-	<content contentuid="h3367309ag4ff3g45ecgba5fg6ba7217afe07" version="1">Stun</content>
-	<content contentuid="hb55616d2gc2b8g4390g9113g8391652b5176" version="1">Stasis</content>
-	<content contentuid="h144778f5ga62bg4058g8b93g0d98e4d24571" version="1">Stasis Field</content>
-	<content contentuid="h0f3d57b2g0084g4370g9bb4g174d533fafa7" version="1">A successful Constitution save means the target is slowed for the duration instead of stunned.
+	<content contentuid="KOTORForceJump10000000000000000000000" version="1">Force Jump</content>
+	<content contentuid="KOTORForceJump20000000000000000000000" version="1">Force Jump (Improved)</content>
+	<content contentuid="KOTORForceJump30000000000000000000000" version="1">Force Jump (Master)</content>
+	<content contentuid="KOTORForceJump1Description00000000000" version="1">The Jedi knows that if diplomacy fails, combat must be swift and decisive. When an opponent at range is targeted with a standard lightsaber melee attack, this feat allows Guardians to make a quick series of jumps and rolls to close distance almost instantly. This feat is automatic when wielding a lightsaber and targeting opponents with a standard melee attack from more than 10 meters away. The Jedi must have a clear line of sight to the opponent.</content>
+	<content contentuid="KOTORAffectMind1000000000000000000000" version="1">Affect Mind</content>
+	<content contentuid="KOTORAffectMind2000000000000000000000" version="1">Dominate Mind</content>
+	<content contentuid="KOTORAffectMind1Description0000000000" version="1">Affect and Dominate Mind enable persuasive use of the Force. Once a Jedi has this power, extra options will appear in conversations as appropriate. Success is not guaranteed for extreme commands or if the target is strong willed. Dominate Mind is more powerful than Affect Mind, and very few beings can resist its effects.</content>
+	<content contentuid="KOTORForceSpeed1000000000000000000000" version="1">Burst of Speed</content>
+	<content contentuid="KOTORForceSpeed2000000000000000000000" version="1">Knight Speed</content>
+	<content contentuid="KOTORForceSpeed3000000000000000000000" version="1">Master Speed</content>
+	<content contentuid="KOTORForceSpeed1Description0000000000" version="1">For the duration of the effect (6 turns), movement speed is doubled.</content>
+	<content contentuid="KOTOREnergyResistance1000000000000000" version="1">Energy Resistance</content>
+	<content contentuid="KOTOREnergyResistance2000000000000000" version="1">Improved Energy Resistance</content>
+	<content contentuid="KOTOREnergyResistance1Description0000" version="1">This power absorbs half the points of damage from thunder, fire, cold and lightning attacks. This effect lasts for 20 turns.</content>
+	<content contentuid="KOTOREnergyResistance2Description0000" version="1">This power absorbs half the points of damage from thunder, fire, cold, lightning and force attacks along with granting immunity to poison. This effect lasts for 20 turns.</content>
+	<content contentuid="KOTORForcePush10000000000000000000000" version="1">Force Push</content>
+	<content contentuid="KOTORForcePush20000000000000000000000" version="1">Force Whirlwind</content>
+	<content contentuid="KOTORForcePush30000000000000000000000" version="1">Force Wave</content>
+	<content contentuid="KOTORForcePush1Description00000000000" version="1">An opponent targeted by Force Push is pushed back 5 meters, thrown to the ground stunned, and suffers damage. A successful Dexterity save means the target is not stunned, but still suffers half damage and gets thrown.</content>
+	<content contentuid="KOTORForcePush2Description00000000000" version="1">Force Whirlwind encircles the target victim in a small maelstrom of air and dust, inflicting damage and rendering them unable to take any action. A successful Dexterity save negates the damage and immobilizing effects altogether. Those adjacent to the target are pushed back 5 meters and thrown to the ground (but not stunned or damaged) unless a successful Dexterity save is made.</content>
+	<content contentuid="KOTORForcePush3Description00000000000" version="1">Force Wave creates a telekinetic explosion around the Jedi. All enemies within 15 meters are thrown 5 meters, fall to the ground and are incapacitated, and take damage. A successful Dexterity save means an enemy is not stunned, but still suffers half damage (and is thrown 5 meters).</content>
+	<content contentuid="KOTORForceResistance10000000000000000" version="1">Force Resistance</content>
+	<content contentuid="KOTORForceResistance20000000000000000" version="1">Force Immunity</content>
+	<content contentuid="KOTORForceResistance1Description00000" version="1">This power offers some protection from direct Force power attacks of Jedi opponents, possibly negating their effects. This effect lasts for 10 turns.</content>
+	<content contentuid="KOTORForceSuppression1000000000000000" version="1">Force Suppression</content>
+	<content contentuid="KOTORForceSuppression2000000000000000" version="1">Force Breach</content>
+	<content contentuid="KOTORForceSuppression1Description0000" version="1">This ability will cancel buffs up to spell level 2 active on the target. These buffs are instantly cancelled, but the target can reactivate them if capable.</content>
+	<content contentuid="KOTORForceSuppression2Description0000" version="1">This ability will cancel all buffs active on the target. These buffs are instantly cancelled, but the target can reactivate them if capable.</content>
+	<content contentuid="KOTORForceThrow1000000000000000000000" version="1">Force Throw</content>
+	<content contentuid="KOTORForceThrow2000000000000000000000" version="1">Advanced Force Throw</content>
+	<content contentuid="KOTORForceThrow1Description0000000000" version="1">The target must be at least 5 meters away. This attack always hits. Once the weapon is thrown, it will automatically return to the Jedi's hand at the end of the round. </content>
+	<content contentuid="KOTORForceThrow2Description0000000000" version="1">The target must be at least 5 meters away, and any additional targets must be within 5 meters of the previous. This attack always hits. Once the weapon is thrown, it will automatically return to the Jedi's hand at the end of the round. </content>
+	<content contentuid="KOTORForceHeal10000000000000000000000" version="1">Cure</content>
+	<content contentuid="KOTORForceHeal20000000000000000000000" version="1">Heal</content>
+	<content contentuid="KOTORForceHeal1Description00000000000" version="1">This power heals all party members within a 15 meter radius.</content>
+	<content contentuid="KOTORForceArmor1000000000000000000000" version="1">Force Aura</content>
+	<content contentuid="KOTORForceArmor2000000000000000000000" version="1">Force Shield</content>
+	<content contentuid="KOTORForceArmor3000000000000000000000" version="1">Force Armor</content>
+	<content contentuid="KOTORForceArmor1Description0000000000" version="1">When this power is activated, the Jedi is temporarily granted a bonus to AC and all saving throws. The effect lasts for 3 turns.</content>
+	<content contentuid="KOTORForceValor1000000000000000000000" version="1">Force Valor</content>
+	<content contentuid="KOTORForceValor2000000000000000000000" version="1">Knight Valor</content>
+	<content contentuid="KOTORForceValor3000000000000000000000" version="1">Master Valor</content>
+	<content contentuid="KOTORForceValor1Description0000000000" version="1">This power increases the physical attributes and saving throws of the Jedi and all party members. The effect lasts for 3 turns.</content>
+	<content contentuid="KOTORForceValor2Description0000000000" version="1">This power increases the physical attributes and saving throws of the Jedi and all party members along with granting immunity to poison. The effect lasts for 3 turns.</content>
+	<content contentuid="KOTORForceStun10000000000000000000000" version="1">Stun</content>
+	<content contentuid="KOTORForceStun20000000000000000000000" version="1">Stasis</content>
+	<content contentuid="KOTORForceStun30000000000000000000000" version="1">Stasis Field</content>
+	<content contentuid="KOTORForceStun1Description00000000000" version="1">A successful Constitution save means the target is slowed for the duration instead of stunned.
 
-When slowed, -4 Defense is inflicted as well as the movement speed penalty: both effects stack (although duration does not), which can even result in negative Defense for the target(s).</content>
-	<content contentuid="h63e57b44g1bd9g422dg8048gb06af896383f" version="1">Stun (saved)</content>
-	<content contentuid="hb9e1bfffg0799g4046g9e75gf9d53a0de136" version="1">Stun Construct</content>
-	<content contentuid="hfaab7ae5g67d2g4fd8ga440g62f7de1ef2d9" version="1">Disable Construct</content>
-	<content contentuid="h82015800g2e62g4ffdgbefegb0fe7e207312" version="1">Destroy Construct</content>
-	<content contentuid="hb018aa9fgbfe8g4cb2gb260gd3f6d2f5e88b" version="1">This power renders constructs immobile for 2 turnsx. The construct also takes damage. A successful save by the target negates the stun and reduces damage by half.</content>
-	<content contentuid="h58092af0gbae9g4721gbab4g2721c561b338" version="1">Drain Life</content>
-	<content contentuid="h32a60e43gba09g4ae9g99e3ga9bc58716a40" version="1">Death Field</content>
-	<content contentuid="h8e10367cg1effg4229g8dc1g2144354adf05" version="1">This power allows the Jedi to drain the life of others to heal him or herself. A successful Constitution save reduces damage by half.</content>
-	<content contentuid="h154144fbga573g465cgbc51g423aef838702" version="1">Fear</content>
-	<content contentuid="hccef57dfga6bfg4545g9b41g22d9f2202303" version="1">Horror</content>
-	<content contentuid="h31e0ce31gd00eg49a3gac4agcc1c00e7bfd3" version="1">Insanity</content>
-	<content contentuid="hd7e003f1g6834g476ega083gde1d590e174c" version="1">This power causes enemies to cower in fear of the attacking Jedi unless they make a Wisdom save.</content>
-	<content contentuid="ha5853f38gee05g451dg9ed7gfad590c4d224" version="1">Shock</content>
-	<content contentuid="he9a09df2g1206g41efga898ge98575a5c68a" version="1">Force Lightning</content>
-	<content contentuid="h57ef5286g5b7cg45a8g9081g43d5ca86f4f9" version="1">Force Storm</content>
-	<content contentuid="hff5d6771gf3adg4d73gaefegebfe689cbc7d" version="1">This power unleashes an electrical attack. A successful Wisdom save by the target reduces damage by half.</content>
-	<content contentuid="hd7d313eag4dd4g43a4ga664g646df8dc67a4" version="1">Slow</content>
-	<content contentuid="hfcd5da53g27d1g4ce3g8d05g75e6994ff382" version="1">Affliction</content>
-	<content contentuid="h6d292d5fgd5b2g4501g9c3bg4183efaef03e" version="1">Plague</content>
-	<content contentuid="hde1766c0g5c55g4221gbde0g1353f1f7bcc6" version="1">Slow clouds the mind, making a target's actions unusually sluggish. A successful save negates these effects.</content>
-	<content contentuid="h51ddfd40ge6f1g4c03gbbeag0d6e2bc51442" version="1">Affliction causes a target to suffer as though poisoned. The target is also slowed for the duration. A successful save negates these effects.</content>
-	<content contentuid="h2a9605f7g38c0g4a87gb536gc55343b543b2" version="1">Plague causes a target to suffer as though deathly ill from poison. The target is also slowed for the duration. A successful save negates these effects.</content>
-	<content contentuid="h6b9b2849g8f6cg47afg9e7dg447593ba82de" version="1">Wound</content>
-	<content contentuid="h318ff796g82b7g46c0g83adg7c938acafb26" version="1">Choke</content>
-	<content contentuid="h98723234g22abg4d14g8a12g1afb0a71c77e" version="1">Kill</content>
-	<content contentuid="h6568fe26g4e49g4f73ga0d3g0d6847d05b07" version="1">Wound triggers spasms in the victim's lungs, causing great pain. A successful Constitution save results in no effect.</content>
-	<content contentuid="hbfc67670g45e6g457agb92eg1b611f6846b4" version="1">Choke constricts the throat of a target at range, stunning and also suffering a temporary (4 turn) -4 penalty to Constitution, Dexterity and Strength. A successful Constitution save results in no effect.</content>
-	<content contentuid="he2318b28gb615g4b2bg8c14gf2920a4edab5" version="1">Kill allows the Jedi to exterminate an enemy at range with a single thought, causing the target to choke for 6 seconds and inflicting damage equal to (close to) half the target's maximum Hit Points. If the target makes a Constitution save they are not choked, but instead suffer damage equal to attacker's Wisdom modifier.</content>
-    <content contentuid="h2b3102b19e854c88a801f479d12867cd375f" version="1">h000000000000000000000000000000000000</content>
+When slowed, -4 AC is inflicted as well as the movement speed penalty: both effects stack (although duration does not), which can even result in negative Defense for the target(s).</content>
+	<content contentuid="KOTORForceStunSave0000000000000000000" version="1">Stun (saved)</content>
+	<content contentuid="KOTORForceStunDroid100000000000000000" version="1">Stun Construct</content>
+	<content contentuid="KOTORForceStunDroid200000000000000000" version="1">Disable Construct</content>
+	<content contentuid="KOTORForceStunDroid300000000000000000" version="1">Destroy Construct</content>
+	<content contentuid="KOTORForceStunDroid1Description000000" version="1">This power renders constructs immobile for 2 turns. The construct also takes damage. A successful save by the target negates the stun and reduces damage by half.</content>
+	<content contentuid="KOTORForceDrain1000000000000000000000" version="1">Drain Life</content>
+	<content contentuid="KOTORForceDrain2000000000000000000000" version="1">Death Field</content>
+	<content contentuid="KOTORForceDrain1Description0000000000" version="1">This power allows the Jedi to drain the life of others to heal him or herself. A successful Constitution save reduces damage by half.</content>
+	<content contentuid="KOTORForceFear10000000000000000000000" version="1">Fear</content>
+	<content contentuid="KOTORForceFear20000000000000000000000" version="1">Horror</content>
+	<content contentuid="KOTORForceFear30000000000000000000000" version="1">Insanity</content>
+	<content contentuid="KOTORForceFear1Description00000000000" version="1">This power causes enemies to cower in fear of the attacking Jedi unless they make a Wisdom save.</content>
+	<content contentuid="KOTORForceLightning100000000000000000" version="1">Shock</content>
+	<content contentuid="KOTORForceLightning200000000000000000" version="1">Force Lightning</content>
+	<content contentuid="KOTORForceLightning300000000000000000" version="1">Force Storm</content>
+	<content contentuid="KOTORForceLightning1Description000000" version="1">This power unleashes an electrical attack. A successful Wisdom save by the target reduces damage by half.</content>
+	<content contentuid="KOTORForceSlow10000000000000000000000" version="1">Slow</content>
+	<content contentuid="KOTORForceSlow20000000000000000000000" version="1">Affliction</content>
+	<content contentuid="KOTORForceSlow30000000000000000000000" version="1">Plague</content>
+	<content contentuid="KOTORForceSlow1Description00000000000" version="1">Slow clouds the mind, making a target's actions unusually sluggish. A successful save negates these effects.</content>
+	<content contentuid="KOTORForceSlow2Description00000000000" version="1">Affliction causes a target to suffer as though poisoned. The target is also slowed for the duration. A successful save negates these effects.</content>
+	<content contentuid="KOTORForceSlow3Description00000000000" version="1">Plague causes a target to suffer as though deathly ill from poison. The target is also slowed for the duration. A successful save negates these effects.</content>
+	<content contentuid="KOTORForceChoke1000000000000000000000" version="1">Wound</content>
+	<content contentuid="KOTORForceChoke2000000000000000000000" version="1">Choke</content>
+	<content contentuid="KOTORForceChoke3000000000000000000000" version="1">Kill</content>
+	<content contentuid="KOTORForceChoke1Description0000000000" version="1">Wound triggers spasms in the victim's lungs, causing great pain. A successful Constitution save results in no effect.</content>
+	<content contentuid="KOTORForceChoke2Description0000000000" version="1">Choke constricts the throat of a target at range, stunning and also suffering a temporary (4 turn) -4 penalty to Constitution, Dexterity and Strength. A successful Constitution save results in no effect.</content>
+	<content contentuid="KOTORForceChoke3Description0000000000" version="1">Kill allows the Jedi to exterminate an enemy at range with a single thought, causing the target to choke for 6 seconds and inflicting damage equal to (close to) half the target's maximum Hit Points. If the target makes a Constitution save they are not choked, but instead suffer damage equal to attacker's Wisdom modifier.</content>
 </contentList>
