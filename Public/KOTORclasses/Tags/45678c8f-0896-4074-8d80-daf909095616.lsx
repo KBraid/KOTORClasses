@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="0" revision="0" build="58" />
 	<region id="Tags">
 		<node id="Tags">
-			<attribute id="DisplayName" type="TranslatedString" handle="KOTORClassSoldierName0000000000000000" version="1" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="KOTORClassSoldierDescription000000000" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="KOTORClassScoutName000000000000000000" version="1" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="KOTORClassScoutDescription00000000000" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="SOLDIER" />
-			<attribute id="Description" type="LSString" value="A battle-ready fighter with no equal in combat." />
-			<attribute id="UUID" type="guid" value="c1318a00-ed5c-4b88-bdf9-62a513b8b951" />
+			<attribute id="Name" type="FixedString" value="SCOUT" />
+			<attribute id="Description" type="LSString" value="An explorer most at home on the fringes of the realm." />
+			<attribute id="UUID" type="guid" value="45678c8f-0896-4074-8d80-daf909095616" />
 			<children>
 				<node id="Categories">
 					<children>
