@@ -303,4 +303,8 @@ When slowed, -4 AC is inflicted as well as the movement speed penalty: both effe
 	<content contentuid="KOTORForceChoke1Description0000000000" version="1">Wound triggers spasms in the victim's lungs, causing great pain. A successful Constitution save results in no effect.</content>
 	<content contentuid="KOTORForceChoke2Description0000000000" version="1">Choke constricts the throat of a target at range, stunning and also suffering a temporary (4 turn) -4 penalty to Constitution, Dexterity and Strength. A successful Constitution save results in no effect.</content>
 	<content contentuid="KOTORForceChoke3Description0000000000" version="1">Kill allows the Jedi to exterminate an enemy at range with a single thought, causing the target to choke for 6 seconds and inflicting damage equal to (close to) half the target's maximum Hit Points. If the target makes a Constitution save they are not choked, but instead suffer damage equal to attacker's Wisdom modifier.</content>
+	<content contentuid="KOTORForcePointLight00000000000000000" version="1">Light Force Point</content>
+	<content contentuid="KOTORForcePointLightDescription000000" version="1">Used for casting Light and Universal Force Powers</content>
+	<content contentuid="KOTORForcePointDark000000000000000000" version="1">Dark Force Point</content>
+	<content contentuid="" version="1">Used for casting Dark and Universal Force Powers</content>
 </contentList>

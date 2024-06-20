@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="307"/>
+    <region id="SkillLists">
+        <node id="root">
+            <children>
+                <node id="SkillList"> <!-- Soldier -->
+                    <attribute id="Skills" type="LSString" value="Investigation, Perception, Medicine"/>
+                    <attribute id="UUID" type="guid" value=""/>
+                </node>
+                <node id="SkillList"> <!-- Scout -->
+                    <attribute id="Skills" type="LSString" value="Arcana, Investigation, Perception, Nature, Medicine"/>
+                    <attribute id="UUID" type="guid" value=""/>
+                </node>
+                <node id="SkillList"> <!-- Smuggler -->
+                    <attribute id="Skills" type="LSString" value="Investigation, Stealth, Perception, Persuasion, Insight"/>
+                    <attribute id="UUID" type="guid" value=""/>
+                </node>
+                <node id="SkillList"> <!-- Jedi Guardian -->
+                    <attribute id="Skills" type="LSString" value="Perception, Persuasion, Medicine"/>
+                    <attribute id="UUID" type="guid" value=""/>
+                </node>
+                <node id="SkillList"> <!-- Jedi Sentinel -->
+                    <attribute id="Skills" type="LSString" value="Perception, Persuasion, Medicine"/>
+                    <attribute id="UUID" type="guid" value=""/>
+                </node>
+                <node id="SkillList"> <!-- Jedi Consular -->
+                    <attribute id="Skills" type="LSString" value="Arcana, Investigation, Perception, Persuasion, Nature, Medicine"/>
+                    <attribute id="UUID" type="guid" value=""/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

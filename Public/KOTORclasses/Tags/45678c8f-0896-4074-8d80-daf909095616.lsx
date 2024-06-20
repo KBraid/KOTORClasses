@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="0" build="58" />
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids" />
 	<region id="Tags">
 		<node id="Tags">
 			<attribute id="DisplayName" type="TranslatedString" handle="KOTORClassScoutName000000000000000000" version="1" />

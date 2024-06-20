@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="307"/>
+    <region id="AbilityLists">
+        <node id="root">
+            <children>
+                <node id="AbilityList">
+                    <attribute id="Abilities" type="LSString" value="Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma"/>
+                    <attribute id="UUID" type="guid" value=""/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="SkillLists">
+        <node id="root">
+            <children>
+                <node id="SkillList"> <!-- add skills -->
+                    <attribute id="Skills" type="LSString" value="Investigation, Perception, Medicine"/>
+                    <attribute id="UUID" type="guid" value="b5d774b3-0925-4312-8de4-ad641800373d"/> <!-- KOTORProgressions.lsx -->
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="FightingStyle_Archery,FightingStyle_Defense,FightingStyle_Dueling,FightingStyle_GreatWeaponFighting,FightingStyle_Protection,FightingStyle_TwoWeaponFighting"/>
+                    <attribute id="UUID" type="guid" value="da3203d8-750a-4de1-b8eb-1eccfccddf46"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Soldier Starting Features"/>
+                    <attribute id="Spells" type="LSString" value="KOTOR_Target_PowerAttack_1,KOTOR_Target_PowerBlast_1"/>
+                    <attribute id="UUID" type="guid" value="b498e92b-176a-4c0f-8a60-cdaa77c9ba5c"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
