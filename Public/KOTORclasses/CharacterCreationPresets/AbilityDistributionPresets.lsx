@@ -19,7 +19,7 @@
                     <attribute id="Strength" type="int32" value="12"/>
                     <attribute id="Dexterity" type="int32" value="15"/>
                     <attribute id="Constitution" type="int32" value="12"/>
-                    <attribute id="Intelligence" type="int32" value="13"/>
+                    <attribute id="Intelligence" type="int32" value="12"/>
                     <attribute id="Wisdom" type="int32" value="12"/>
                     <attribute id="Charisma" type="int32" value="10"/>
                     <attribute id="UUID" type="guid" value="9fd4c788-159d-459f-9cb8-b7cc1ebd2787"/>

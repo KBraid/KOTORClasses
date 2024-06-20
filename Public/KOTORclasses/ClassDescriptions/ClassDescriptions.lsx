@@ -37,7 +37,7 @@
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="false"/> 
                     <attribute id="Name" type="FixedString" value="Scout"/>
-                    <attribute id="PrimaryAbility" type="uint8" value="1"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="2"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="5dcecf73-965f-4c36-b344-81b4d59433c6"/> <!--scoutclassUUID-->
                     <attribute id="SoundClassType" type="FixedString" value="Ranger"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="0"/>
