@@ -6,7 +6,7 @@
             <children>
                 <node id="ActionResourceGroupDefinition">
                     <attribute id="ActionResourceDefinitions" type="LSString" value="c4b8c9dc-72e3-46b7-95b6-a981f5b64a32;21d5fd4f-0273-4bc8-a2de-1c661e2993c6"/>
-                    <attribute id="Name" type="LSString" value="SpellSlotsGroup"/>
+                    <attribute id="Name" type="LSString" value="ForceSlotsGroup"/>
                     <attribute id="UUID" type="guid" value="d93cf4b3-3cc1-44c0-b422-6f4e2e435a71"/>
                 </node>
             </children>
