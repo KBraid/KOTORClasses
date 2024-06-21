@@ -6,27 +6,27 @@
             <children>
                 <node id="SkillList"> <!-- Soldier -->
                     <attribute id="Skills" type="LSString" value="Investigation, Perception, Medicine"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="75ab6708-7491-4519-a105-36464aed4343"/>
                 </node>
                 <node id="SkillList"> <!-- Scout -->
                     <attribute id="Skills" type="LSString" value="Arcana, Investigation, Perception, Nature, Medicine"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="f9417189-2d47-482a-92a6-f20c195c9b13"/>
                 </node>
                 <node id="SkillList"> <!-- Smuggler -->
                     <attribute id="Skills" type="LSString" value="Investigation, Stealth, Perception, Persuasion, Insight"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="e109a3ab-550d-4273-9e72-8ee0e6e0dfc2"/>
                 </node>
                 <node id="SkillList"> <!-- Jedi Guardian -->
                     <attribute id="Skills" type="LSString" value="Perception, Persuasion, Medicine"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="2b72e813-9ead-4405-9a06-bc677e9106ea"/>
                 </node>
                 <node id="SkillList"> <!-- Jedi Sentinel -->
                     <attribute id="Skills" type="LSString" value="Perception, Persuasion, Medicine"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="0331547d-f16b-4ac8-b3b9-1dbd66487526"/>
                 </node>
                 <node id="SkillList"> <!-- Jedi Consular -->
                     <attribute id="Skills" type="LSString" value="Arcana, Investigation, Perception, Persuasion, Nature, Medicine"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="de5867dd-6dc2-40df-b97c-a7661f2395f8"/>
                 </node>
             </children>
         </node>

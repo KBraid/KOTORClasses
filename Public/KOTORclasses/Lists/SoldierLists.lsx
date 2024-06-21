@@ -6,7 +6,7 @@
             <children>
                 <node id="AbilityList">
                     <attribute id="Abilities" type="LSString" value="Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="dc0fd6d9-f28a-4fa6-9434-15edefa1b638"/>
                 </node>
             </children>
         </node>
@@ -16,7 +16,7 @@
             <children>
                 <node id="SkillList"> <!-- add skills -->
                     <attribute id="Skills" type="LSString" value="Investigation, Perception, Medicine"/>
-                    <attribute id="UUID" type="guid" value="b5d774b3-0925-4312-8de4-ad641800373d"/> <!-- KOTORProgressions.lsx -->
+                    <attribute id="UUID" type="guid" value="75ab6708-7491-4519-a105-36464aed4343"/> <!-- KOTORProgressions.lsx -->
                 </node>
             </children>
         </node>

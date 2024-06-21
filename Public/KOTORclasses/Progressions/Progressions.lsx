@@ -11,7 +11,7 @@
 					<attribute id="AllowImprovement" type="bool" value="False" />
 					<attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Constitution)" />
 					<attribute id="PassivesAdded" type="LSString" value="KOTOR_Armor_1;KOTOR_Armor_2;KOTOR_Armor_3;KOTOR_Ranged_Small_1;KOTOR_Ranged_Medium_1;KOTOR_Ranged_Large_1;KOTOR_Ranged_Throw_1;KOTOR_Melee_Simple_1;KOTOR_Melee_Martial_1;KOTOR_PowerAttack_1_Unlock;KOTOR_PowerBlast_1_Unlock" />
-					<attribute id="Selectors" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="SelectSkills(75ab6708-7491-4519-a105-36464aed4343,2)" />
 					<attribute id="TableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae" />
 					<attribute id="UUID" type="guid" value="a68fdb77-9f63-49c9-9d15-146e396518fe" />
 				</node>
@@ -203,7 +203,7 @@
 					<attribute id="AllowImprovement" type="bool" value="False" />
 					<attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Wisdom)" />
 					<attribute id="PassivesAdded" type="LSString" value="KOTOR_Armor_1;KOTOR_Armor_2;KOTOR_Ranged_Small_1;KOTOR_Ranged_Medium_1;KOTOR_Ranged_Throw_1;KOTOR_Melee_Simple_1;KOTOR_Melee_Martial_1;KOTOR_Flurry_1_Unlock;KOTOR_RapidShot_1_Unlock" />
-					<attribute id="Selectors" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="SelectSkills(f9417189-2d47-482a-92a6-f20c195c9b13,2)" />
 					<attribute id="TableUUID" type="guid" value="5dcecf73-965f-4c36-b344-81b4d59433c6" />
 					<attribute id="UUID" type="guid" value="962874b6-6899-45d8-8c04-1c983fd25dfc" />
 				</node>

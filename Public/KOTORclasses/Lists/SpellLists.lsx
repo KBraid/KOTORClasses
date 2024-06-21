@@ -7,7 +7,7 @@
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Soldier Skills"/>
                     <attribute id="Spells" type="LSString" value=""/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="5cc3e56e-5c5c-44ea-8600-9191f89c44d6"/>
                 </node>
             </children>
         </node>
