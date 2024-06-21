@@ -41,8 +41,12 @@ data "Description" "h630dcdc4gc512g4813ga409g36e6fa4d6433;1"
 data "Icon" "Skill_ForceJump_2"
 data "SpellProperties" "ApplyStatus(SELF,KOTOR_FORCEJUMP_ATK_2, 100, 1;SELF,KOTOR_FORCEJUMP_DEF_2, 100, 1)"
 data "Boosts" "JumpMaxDistanceBonus(2); FallDamageMultiplier(0.5)"
-data "UseCosts" "LightForcePoint:2 or DarkForcePoint:2"
+data "UseCosts" "LightForcePoint:2"
 data "RitualCosts" "BonusActionPoint:1"
+
+new entry "KOTOR_ForceJump_2_Dark"
+data "UseCosts" "DarkForcePoint:2"
+data "RootSpellID" "KOTOR_ForceJump_2"
 
 new entry "KOTOR_FORCEJUMP_ATK_3"
 type "StatusData"
@@ -70,8 +74,12 @@ data "Description" "h630dcdc4gc512g4813ga409g36e6fa4d6433;1"
 data "Icon" "Skill_ForceJump_3"
 data "SpellProperties" "ApplyStatus(SELF,KOTOR_FORCEJUMP_ATK_3, 100, 1;SELF,KOTOR_FORCEJUMP_DEF_3, 100, 1)"
 data "Boosts" "JumpMaxDistanceBonus(3); FallDamageMultiplier(0.5)"
-data "UseCosts" "LightForcePoint:3 or DarkForcePoint:3"
+data "UseCosts" "LightForcePoint:3"
 data "RitualCosts" "BonusActionPoint:1"
+
+new entry "KOTOR_ForceJump_3_Dark"
+data "UseCosts" "DarkForcePoint:3"
+data "RootSpellID" "KOTOR_ForceJump_3"
 
 new entry "AFFECTMIND"
 type "StatusData"
@@ -94,10 +102,12 @@ data "Description" "h11f0aa4agb9a2g416dgac6cg864e56988ed2;1"
 data "SpellSuccess" "ApplyStatus(AFFECTMIND, 100, 1)"
 data "Icon" "Spell_Force_AffectMind"
 data "SpellSuccess" 
-data "UseCosts" "LightForcePoint:1 or DarkForcePoint:1"
-/# 1st person casts during dialogue on 2nd person. 2nd person save fail = advantage roll. 3rd person can not cast on 1st person's behalf.
+data "UseCosts" "LightForcePoint:1"
+/ 1st person casts during dialogue on 2nd person. 2nd person save fail = advantage roll. 3rd person can not cast on 1st person's behalf.
 
-doest
+new entry "KOTOR_Target_AffectMind_Dark"
+data "UseCosts" "DarkForcePoint:1"
+data "RootSpellID" "KOTOR_Target_AffectMind"
 
 new entry "KOTOR_Target_DominateMind"
 type "SpellData"
@@ -107,7 +117,7 @@ data "Description" "h11f0aa4agb9a2g416dgac6cg864e56988ed2;1"
 data "SpellSuccess" "ApplyStatus(DOMINATEMIND, 100, 1)"
 data "Icon" "Spell_Force_DominateMind"
 data "UseCosts" "LightForcePoint:2 or DarkForcePoint:2"
-/# 1st person casts during dialogue on 2nd person. 2nd person save fail = advantage roll + aditional 1d10 roll. 3rd person can not cast on 1st person's behalf.
+/ 1st person casts during dialogue on 2nd person. 2nd person save fail = advantage roll + aditional 1d10 roll. 3rd person can not cast on 1st person's behalf.
 
 new entry "FORCESPEED"
 type "StatusData"

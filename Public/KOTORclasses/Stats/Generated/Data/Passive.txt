@@ -265,7 +265,7 @@ data "DisplayName" "KOTORPassiveIngenuity2000000000000000;1"
 data "Description" "KOTORPassiveIngenuity1Description0000;1"
 data "Icon" "Skill_GearHead_2"
 data "Properties" "Highlighted"
-using "KOTOR_GearHead_1"
+using "KOTOR_Ingenuity_1"
 
 new entry "KOTOR_Ingenuity_3"
 type "PassiveData"
@@ -273,7 +273,7 @@ data "DisplayName" "KOTORPassiveIngenuity3000000000000000;1"
 data "Description" "KOTORPassiveIngenuity1Description0000;1"
 data "Icon" "Skill_GearHead_3"
 data "Properties" "Highlighted"
-using "KOTOR_GearHead_1"
+using "KOTOR_Ingenuity_1"
 
 new entry "KOTOR_Toughness_1"
 type "PassiveData"
@@ -323,7 +323,7 @@ data "Icon" "Skill_TwoWeaponFighting_3"
 data "Properties" "Highlighted"
 data "Boosts" "TwoWeaponFighting()"
 
-## Scoundrel class features
+/ Scoundrel Class
 
 new entry "KOTOR_ScoundrelsLuck_1"
 type "PassiveData"
@@ -421,7 +421,7 @@ data "Icon" "Skill_SneakAttack_9"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockInterrupt(KOTOR_Interrupt_SneakAttack_9)"
 
-## Scout class features
+/ Scout Class
 
 new entry "KOTOR_UncannyDodge_1"
 type "PassiveData"

@@ -1,4 +1,4 @@
-## Armor Proficiency
+/Armor Proficiency
 
 new entry "KOTOR_Armor_1"
 type "PassiveData"
@@ -24,7 +24,7 @@ data "Icon" "Proficiency_Armor_3"
 data "Properties" "Highlighted"
 data "Boosts" "Proficiency(HeavyArmor)"
 
-## Weapon Proficiency
+/Weapon Proficiency
 
 new entry "KOTOR_Ranged_Small_1"
 type "PassiveData"
@@ -64,7 +64,7 @@ data "DisplayName" "KOTORProficiencySimple100000000000000;1"
 data "Description" "KOTORProficiencySimple1Description000;1"
 data "Icon" "Proficiency_Simple_1"
 data "Properties" "Highlighted"
-data "Boosts" "Proficiency(Clubs);Proficiency(Daggers);Proficiency(Handaxes);Proficiency(Javelins);Proficiency(Lighthammers);Proficiency(Maces);Proficiency(Sickles);Proficiency(Quarterstaves);Proficiency(Spears);Proficiency(Greatclubs)"
+data "Boosts" "Proficiency(Clubs);Proficiency(Daggers);Proficiency(Handaxes);Proficiency(Javelins);Proficiency(LightHammers);Proficiency(Maces);Proficiency(Sickles);Proficiency(Quarterstaves);Proficiency(Spears);Proficiency(Greatclubs)"
 
 new entry "KOTOR_Melee_Martial_1"
 type "PassiveData"
@@ -82,7 +82,7 @@ data "Icon" "Proficiency_Lightsaber_1"
 data "Properties" "Highlighted"
 data "Boosts" "Proficiency(Lightsabers)"
 
-## Weapon Focus
+/Weapon Focus
 
 new entry "KOTOR_Ranged_Small_2"
 type "PassiveData"
@@ -140,7 +140,7 @@ data "Icon" "Proficiency_Lightsaber_2"
 data "Properties" "Highlighted"
 data "Boosts" "IF(IsWeaponOfProficiencyGroup('Lightsabers'):RollBonus(MeleeWeaponAttack, 1);RollBonus(MeleeOffHandWeaponAttack, 1)"
 
-## Weapon Specialization
+/Weapon Specialization
 
 new entry "KOTOR_Ranged_Small_3"
 type "PassiveData"
