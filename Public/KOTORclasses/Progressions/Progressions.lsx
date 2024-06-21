@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="10" build="100" lslib_meta="v1,bswap_guids" />
-	<region id="root">
+	<version major="4" minor="0" revision="10" build="100"/>
+	<region id="Progressions">
 		<node id="root">
 			<children>
 				<node id="Progression">
