@@ -1,70 +1,70 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <save>
-	<version major="4" minor="0" revision="10" build="100" lslib_meta="v1,bswap_guids" />
-	<region id="root">
-		<node id="root">
-			<children>
-				<node id="AbilityDistributionPreset">
-					<attribute id="ClassUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9af" />
-					<attribute id="Strength" type="int32" value="15" />
-					<attribute id="Dexterity" type="int32" value="13" />
-					<attribute id="Constitution" type="int32" value="13" />
-					<attribute id="Intelligence" type="int32" value="10" />
-					<attribute id="Wisdom" type="int32" value="12" />
-					<attribute id="Charisma" type="int32" value="10" />
-					<attribute id="UUID" type="guid" value="340e55d6-c65c-4f5b-ad65-694c7a497979" />
-				</node>
-				<node id="AbilityDistributionPreset">
-					<attribute id="ClassUUID" type="guid" value="199f0e32-e485-4a16-8063-8108e719c294" />
-					<attribute id="Strength" type="int32" value="12" />
-					<attribute id="Dexterity" type="int32" value="15" />
-					<attribute id="Constitution" type="int32" value="12" />
-					<attribute id="Intelligence" type="int32" value="12" />
-					<attribute id="Wisdom" type="int32" value="12" />
-					<attribute id="Charisma" type="int32" value="10" />
-					<attribute id="UUID" type="guid" value="9fd4c788-159d-459f-9cb8-b7cc1ebd2787" />
-				</node>
-				<node id="AbilityDistributionPreset">
-					<attribute id="ClassUUID" type="guid" value="eeb43eac-61fa-488c-a65d-c77707a3abb7" />
-					<attribute id="Strength" type="int32" value="10" />
-					<attribute id="Dexterity" type="int32" value="15" />
-					<attribute id="Constitution" type="int32" value="10" />
-					<attribute id="Intelligence" type="int32" value="13" />
-					<attribute id="Wisdom" type="int32" value="12" />
-					<attribute id="Charisma" type="int32" value="13" />
-					<attribute id="UUID" type="guid" value="fcb9a80f-6261-4126-98b7-8a9678df6a79" />
-				</node>
-				<node id="AbilityDistributionPreset">
-					<attribute id="ClassUUID" type="guid" value="2e5ff168-edcc-4309-bfda-24a45038f525" />
-					<attribute id="Strength" type="int32" value="13" />
-					<attribute id="Dexterity" type="int32" value="13" />
-					<attribute id="Constitution" type="int32" value="13" />
-					<attribute id="Intelligence" type="int32" value="13" />
-					<attribute id="Wisdom" type="int32" value="12" />
-					<attribute id="Charisma" type="int32" value="10" />
-					<attribute id="UUID" type="guid" value="a3d8a96d-b438-4dc7-9cfb-635f0a0b9542" />
-				</node>
-				<node id="AbilityDistributionPreset">
-					<attribute id="ClassUUID" type="guid" value="e1f2adbf-94a0-41f5-839d-e3c3b1cd48fb" />
-					<attribute id="Strength" type="int32" value="12" />
-					<attribute id="Dexterity" type="int32" value="13" />
-					<attribute id="Constitution" type="int32" value="13" />
-					<attribute id="Intelligence" type="int32" value="13" />
-					<attribute id="Wisdom" type="int32" value="12" />
-					<attribute id="Charisma" type="int32" value="12" />
-					<attribute id="UUID" type="guid" value="e4aae9b2-ca47-4010-9d83-b9ba7148fc74" />
-				</node>
-				<node id="AbilityDistributionPreset">
-					<attribute id="ClassUUID" type="guid" value="708cd299-0e19-4d2a-b717-517142b2d37f" />
-					<attribute id="Strength" type="int32" value="10" />
-					<attribute id="Dexterity" type="int32" value="13" />
-					<attribute id="Constitution" type="int32" value="13" />
-					<attribute id="Intelligence" type="int32" value="12" />
-					<attribute id="Wisdom" type="int32" value="13" />
-					<attribute id="Charisma" type="int32" value="13" />
-					<attribute id="UUID" type="guid" value="42eb7a41-f1f2-4d5b-970c-43be9aa18567" />
-				</node>
-			</children>
-		</node>
-	</region>
+    <version major="4" minor="0" revision="10" build="100"/>
+    <region id="AbilityDistributionPresets">
+        <node id="root">
+            <children>
+                <node id="AbilityDistributionPreset"> <!--soldier-->
+                    <attribute id="ClassUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9af"/> <!--soldierdescUUID-->
+                    <attribute id="Strength" type="int32" value="15"/>
+                    <attribute id="Dexterity" type="int32" value="13"/>
+                    <attribute id="Constitution" type="int32" value="13"/>
+                    <attribute id="Intelligence" type="int32" value="10"/>
+                    <attribute id="Wisdom" type="int32" value="12"/>
+                    <attribute id="Charisma" type="int32" value="10"/>
+                    <attribute id="UUID" type="guid" value="340e55d6-c65c-4f5b-ad65-694c7a497979"/>
+                </node>
+                <node id="AbilityDistributionPreset"> <!--scout-->
+                    <attribute id="ClassUUID" type="guid" value="199f0e32-e485-4a16-8063-8108e719c294"/> <!--scoutdescUUID-->
+                    <attribute id="Strength" type="int32" value="12"/>
+                    <attribute id="Dexterity" type="int32" value="15"/>
+                    <attribute id="Constitution" type="int32" value="12"/>
+                    <attribute id="Intelligence" type="int32" value="12"/>
+                    <attribute id="Wisdom" type="int32" value="12"/>
+                    <attribute id="Charisma" type="int32" value="10"/>
+                    <attribute id="UUID" type="guid" value="9fd4c788-159d-459f-9cb8-b7cc1ebd2787"/>
+                </node>
+                <node id="AbilityDistributionPreset"> <!--scoundrel-->
+                    <attribute id="ClassUUID" type="guid" value="eeb43eac-61fa-488c-a65d-c77707a3abb7"/> <!--scoundreldescUUID-->
+                    <attribute id="Strength" type="int32" value="10"/>
+                    <attribute id="Dexterity" type="int32" value="15"/>
+                    <attribute id="Constitution" type="int32" value="10"/>
+                    <attribute id="Intelligence" type="int32" value="13"/>
+                    <attribute id="Wisdom" type="int32" value="12"/>
+                    <attribute id="Charisma" type="int32" value="13"/>
+                    <attribute id="UUID" type="guid" value="fcb9a80f-6261-4126-98b7-8a9678df6a79"/>
+                </node>
+                <node id="AbilityDistributionPreset"> <!--Jedi	Guardian-->
+                    <attribute id="ClassUUID" type="guid" value="2e5ff168-edcc-4309-bfda-24a45038f525"/> <!--guardiandescUUID-->
+                    <attribute id="Strength" type="int32" value="13"/>
+                    <attribute id="Dexterity" type="int32" value="13"/>
+                    <attribute id="Constitution" type="int32" value="13"/>
+                    <attribute id="Intelligence" type="int32" value="13"/>
+                    <attribute id="Wisdom" type="int32" value="12"/>
+                    <attribute id="Charisma" type="int32" value="10"/>
+                    <attribute id="UUID" type="guid" value="a3d8a96d-b438-4dc7-9cfb-635f0a0b9542"/>
+                </node>
+                <node id="AbilityDistributionPreset"> <!--Jedi	Sentinel-->
+                    <attribute id="ClassUUID" type="guid" value="e1f2adbf-94a0-41f5-839d-e3c3b1cd48fb"/> <!--sentineldescUUID-->
+                    <attribute id="Strength" type="int32" value="12"/>
+                    <attribute id="Dexterity" type="int32" value="13"/>
+                    <attribute id="Constitution" type="int32" value="13"/>
+                    <attribute id="Intelligence" type="int32" value="13"/>
+                    <attribute id="Wisdom" type="int32" value="12"/>
+                    <attribute id="Charisma" type="int32" value="12"/>
+                    <attribute id="UUID" type="guid" value="e4aae9b2-ca47-4010-9d83-b9ba7148fc74"/>
+                </node>
+                <node id="AbilityDistributionPreset"> <!--Jedi	Consular-->
+                    <attribute id="ClassUUID" type="guid" value="708cd299-0e19-4d2a-b717-517142b2d37f"/> <!--consulardescUUID-->
+                    <attribute id="Strength" type="int32" value="10"/>
+                    <attribute id="Dexterity" type="int32" value="13"/>
+                    <attribute id="Constitution" type="int32" value="13"/>
+                    <attribute id="Intelligence" type="int32" value="12"/>
+                    <attribute id="Wisdom" type="int32" value="13"/>
+                    <attribute id="Charisma" type="int32" value="13"/>
+                    <attribute id="UUID" type="guid" value="42eb7a41-f1f2-4d5b-970c-43be9aa18567"/>
+                </node>
+            </children>
+        </node>
+    </region>
 </save>

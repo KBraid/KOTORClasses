@@ -1,54 +1,54 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <save>
-	<version major="4" minor="0" revision="10" build="100" lslib_meta="v1,bswap_guids" />
-	<region id="root">
-		<node id="root">
-			<children>
-				<node id="ClassDescription">
-					<attribute id="BaseHp" type="int32" value="10" />
-					<attribute id="CanLearnSpells" type="bool" value="False" />
-					<attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
-					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Soldier" />
-					<attribute id="DisplayName" type="TranslatedString" handle="KOTORClassSoldierName0000000000000000" version="1" />
-					<attribute id="Description" type="TranslatedString" handle="KOTORClassSoldierDescription000000000" version="1" />
-					<attribute id="HpPerLevel" type="int32" value="10" />
-					<attribute id="LearningStrategy" type="uint8" value="1" />
-					<attribute id="MustPrepareSpells" type="bool" value="False" />
-					<attribute id="Name" type="FixedString" value="Soldier" />
-					<attribute id="PrimaryAbility" type="uint8" value="1" />
-					<attribute id="ProgressionTableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae" />
-					<attribute id="SoundClassType" type="FixedString" value="Fighter" />
-					<attribute id="SpellCastingAbility" type="uint8" value="0" />
-					<attribute id="UUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9af" />
+    <version major="4" minor="0" revision="10" build="100"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription"> <!--Soldier-->
+                    <attribute id="BaseHp" type="int32" value="10"/>
+                    <attribute id="CanLearnSpells" type="bool" value="false"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Soldier"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="KOTORClassSoldierName0000000000000000" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="KOTORClassSoldierDescription000000000" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="10"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/> 
+                    <attribute id="Name" type="FixedString" value="Soldier"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="1"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9ae"/> <!--soldierclassUUID-->
+                    <attribute id="SoundClassType" type="FixedString" value="Fighter"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="0"/>
+                    <attribute id="UUID" type="guid" value="4bd7756b-dbbe-4509-8129-0cf79b29c9af"/> <!--soldierdescUUID-->
 					<children>
-						<node id="Tags">
-							<attribute id="Object" type="guid" value="c1318a00-ed5c-4b88-bdf9-62a513b8b951" />
-						</node>
-					</children>
-				</node>
-				<node id="ClassDescription">
-					<attribute id="BaseHp" type="int32" value="8" />
-					<attribute id="CanLearnSpells" type="bool" value="False" />
-					<attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
-					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Scout" />
-					<attribute id="DisplayName" type="TranslatedString" handle="KOTORClassScoutName000000000000000000" version="1" />
-					<attribute id="Description" type="TranslatedString" handle="KOTORClassScoutDescription00000000000" version="1" />
-					<attribute id="HpPerLevel" type="int32" value="8" />
-					<attribute id="LearningStrategy" type="uint8" value="1" />
-					<attribute id="MustPrepareSpells" type="bool" value="False" />
-					<attribute id="Name" type="FixedString" value="Scout" />
-					<attribute id="PrimaryAbility" type="uint8" value="2" />
-					<attribute id="ProgressionTableUUID" type="guid" value="5dcecf73-965f-4c36-b344-81b4d59433c6" />
-					<attribute id="SoundClassType" type="FixedString" value="Ranger" />
-					<attribute id="SpellCastingAbility" type="uint8" value="0" />
-					<attribute id="UUID" type="guid" value="199f0e32-e485-4a16-8063-8108e719c294" />
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c1318a00-ed5c-4b88-bdf9-62a513b8b951"/> <!--Tag-->
+                        </node>
+                    </children>
+                </node>
+                <node id="ClassDescription"> <!--Scout-->
+                    <attribute id="BaseHp" type="int32" value="8"/>
+                    <attribute id="CanLearnSpells" type="bool" value="false"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Scout"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="KOTORClassScoutName000000000000000000" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="KOTORClassScoutDescription00000000000" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="8"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/> 
+                    <attribute id="Name" type="FixedString" value="Scout"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="2"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="5dcecf73-965f-4c36-b344-81b4d59433c6"/> <!--scoutclassUUID-->
+                    <attribute id="SoundClassType" type="FixedString" value="Ranger"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="0"/>
+                    <attribute id="UUID" type="guid" value="199f0e32-e485-4a16-8063-8108e719c294"/> <!--scoutdescUUID-->
 					<children>
-						<node id="Tags">
-							<attribute id="Object" type="guid" value="45678c8f-0896-4074-8d80-daf909095616" />
-						</node>
-					</children>
-				</node>
-			</children>
-		</node>
-	</region>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="45678c8f-0896-4074-8d80-daf909095616"/> <!--Tag-->
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
 </save>
